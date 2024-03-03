@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T03:43:13.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-_SO27KesbS4MFkWlEua" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T09:28:48.259Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nJ5lEXpmAZfo0NBhCxov" version="24.0.0" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
-    <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2812" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,8 +120,8 @@
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-31" value="{&lt;br&gt;&amp;nbsp; 制品具有项目聚合下的局部标识，名称 + 版本号不可重复&lt;br&gt;&amp;nbsp; 修改制品完成后，要发出消息，告知外部系统制品已被修改&lt;br&gt;&amp;nbsp; 已经被添加到应用当中的制品不可被删除&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-30" vertex="1">
           <mxGeometry x="550" y="671" width="160" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-32" value="{&lt;br&gt;&amp;nbsp; 项目必须有且只有一个项目经理&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-30" vertex="1">
-          <mxGeometry x="250" y="400" width="170" height="99" as="geometry" />
+        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-32" value="{&lt;br&gt;&amp;nbsp; 项目必须有且只有一个项目经理&lt;div&gt;&amp;nbsp; 项目的开始时间不能大于结束时间&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-30" vertex="1">
+          <mxGeometry x="250" y="400" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;制品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="XD4aT4Mzu0UsRtTv3BFP-30" vertex="1">
           <mxGeometry x="640" y="581" width="140" height="60" as="geometry" />
