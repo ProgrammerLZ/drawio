@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T01:58:54.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jQabGoxeLiUtOtw98xO5" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T02:24:45.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hOWzKBlTd-DYeiXEuGI4" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
     <mxGraphModel dx="3046" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -605,6 +605,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="570" as="sourcePoint" />
             <mxPoint x="565" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="840" />
+              <mxPoint x="625" y="840" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-23" value="1...1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="v-RLYn9fKf8f6NRElOlS-22">
