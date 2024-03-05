@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T06:31:39.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oQDk5VCmANqV2UUpY4kW" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T06:31:47.468Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TcDMSRII2MTlitkQfx80" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
     <mxGraphModel dx="2763" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="281" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;系统状态&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="XD4aT4Mzu0UsRtTv3BFP-1" vertex="1">
+        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;软件系统状态&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="XD4aT4Mzu0UsRtTv3BFP-1" vertex="1">
           <mxGeometry x="400" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-6" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="XD4aT4Mzu0UsRtTv3BFP-1" source="XD4aT4Mzu0UsRtTv3BFP-3" target="XD4aT4Mzu0UsRtTv3BFP-5" edge="1">
