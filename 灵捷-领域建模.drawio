@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T00:43:11.079Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SPgERRpVM-qoa-tYluh7" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T00:44:27.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6W5CqMIIADR8RYMFJ-nu" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
-    <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-24" value="灵捷品台集成了中台的能力，但是中台和灵捷平台应该独立的进行演化，不能进行业务概念的耦合。因此中台可能不会做这种功能支撑." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fad7ac;strokeColor=#b46504;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
           <mxGeometry x="45" y="151" width="160" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="UAUAr4L55qGhMqzZgOZg-6" value="子应用" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="XD4aT4Mzu0UsRtTv3BFP-19">
+        <mxCell id="UAUAr4L55qGhMqzZgOZg-6" value="子应用" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="XD4aT4Mzu0UsRtTv3BFP-19" connectable="0" vertex="1">
           <mxGeometry x="340" y="446" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-25" value="发布管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
@@ -580,7 +580,7 @@
             <mxPoint x="360" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAUAr4L55qGhMqzZgOZg-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;配置&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="v-RLYn9fKf8f6NRElOlS-1">
+        <mxCell id="UAUAr4L55qGhMqzZgOZg-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;配置&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="v-RLYn9fKf8f6NRElOlS-1" vertex="1">
           <mxGeometry x="40" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-15" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-20" edge="1">
@@ -650,7 +650,7 @@
             <mxPoint x="5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAUAr4L55qGhMqzZgOZg-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-67">
+        <mxCell id="UAUAr4L55qGhMqzZgOZg-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1199" y="395" as="sourcePoint" />
             <mxPoint x="1199" y="250" as="targetPoint" />
@@ -661,14 +661,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAUAr4L55qGhMqzZgOZg-3" value="0...*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="UAUAr4L55qGhMqzZgOZg-2">
+        <mxCell id="UAUAr4L55qGhMqzZgOZg-3" value="0...*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="UAUAr4L55qGhMqzZgOZg-2" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="5" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UAUAr4L55qGhMqzZgOZg-4" value="1...1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="UAUAr4L55qGhMqzZgOZg-2">
+        <mxCell id="UAUAr4L55qGhMqzZgOZg-4" value="1...1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="UAUAr4L55qGhMqzZgOZg-2" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JW-2C71cVqiBW9RW9-Jx-2" value="父应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAUAr4L55qGhMqzZgOZg-2">
+          <mxGeometry x="0.9456" relative="1" as="geometry">
+            <mxPoint x="-20" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-129" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-23" edge="1">
