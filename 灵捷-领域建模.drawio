@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:31:29.906Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MGtBNXqfOIrwZ21CSWMB" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:32:07.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TkCko60Sotij8CCrlvkO" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
     <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -633,7 +633,7 @@
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-27" value="0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v-RLYn9fKf8f6NRElOlS-25" vertex="1" connectable="0">
           <mxGeometry x="-0.9266" y="-2" relative="1" as="geometry">
-            <mxPoint x="5" y="-8" as="offset" />
+            <mxPoint x="9" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAUAr4L55qGhMqzZgOZg-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-67" edge="1">
