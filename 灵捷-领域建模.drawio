@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:47:04.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yTz4U_cX5QAms_686Jc9" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T08:05:53.231Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OYdjStn0D7QhJ_wW2PCJ" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
-    <mxGraphModel dx="3046" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3046" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-1" value="软件管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="-590" width="761" height="520" as="geometry" />
+          <mxGeometry x="650" y="-720" width="761" height="650" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-2" value="{&lt;br&gt;&amp;nbsp; 子系统不能成为父系统&lt;br&gt;&amp;nbsp; 父系统不能是已停用状态&lt;br&gt;&amp;nbsp; 没有父系统的系统其本身则为主分支&lt;br&gt;&amp;nbsp; 被添加的应用必须没有从属的系统&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-1" vertex="1">
           <mxGeometry x="370" y="50" width="160" height="180" as="geometry" />
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="9sY-IFKgFKd15J0_CMQc-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;应用&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="XD4aT4Mzu0UsRtTv3BFP-1">
           <mxGeometry x="141" y="430" width="130" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="9sY-IFKgFKd15J0_CMQc-10" value="{&lt;br&gt;&lt;div&gt;&amp;nbsp; 应用不可重复添加&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="XD4aT4Mzu0UsRtTv3BFP-1">
+          <mxGeometry x="380" y="450" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-18" value="目标环境管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2500" y="-20" width="610" height="790" as="geometry" />
@@ -263,8 +266,9 @@
             <mxPoint x="460" y="-290" as="sourcePoint" />
             <mxPoint x="430" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="-292" />
+              <mxPoint x="480" y="-464" />
               <mxPoint x="480" y="354" />
+              <mxPoint x="220" y="354" />
             </Array>
           </mxGeometry>
         </mxCell>
