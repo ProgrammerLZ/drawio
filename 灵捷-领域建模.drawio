@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:32:07.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TkCko60Sotij8CCrlvkO" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:32:42.718Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZGbkO0DdapXV1dJ08_38" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
     <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="431" y="521" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-24" value="灵捷品台集成了中台的能力，但是中台和灵捷平台应该独立的进行演化，不能进行业务概念的耦合。&lt;div&gt;与中台中的应用，一一对应，在创建本平台的应用的时候，也要把中台中的应用创建出来，并且把该应用的菜单配置好&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fad7ac;strokeColor=#b46504;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
-          <mxGeometry x="45" y="90" width="160" height="216" as="geometry" />
+          <mxGeometry x="90" y="81" width="160" height="216" as="geometry" />
         </mxCell>
         <mxCell id="UAUAr4L55qGhMqzZgOZg-6" value="子应用&lt;div&gt;子分支&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="XD4aT4Mzu0UsRtTv3BFP-19" connectable="0" vertex="1">
           <mxGeometry x="340" y="457" as="geometry" />
@@ -252,12 +252,7 @@
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-73" value="0...1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XD4aT4Mzu0UsRtTv3BFP-71" vertex="1" connectable="0">
           <mxGeometry x="-0.9266" y="-2" relative="1" as="geometry">
-            <mxPoint x="5" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9sY-IFKgFKd15J0_CMQc-2" value="子应用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XD4aT4Mzu0UsRtTv3BFP-71">
-          <mxGeometry x="-0.947" y="2" relative="1" as="geometry">
-            <mxPoint y="6" as="offset" />
+            <mxPoint x="1" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-74" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=170;entryDy=25;entryPerimeter=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-33" target="XD4aT4Mzu0UsRtTv3BFP-32" edge="1">
@@ -633,7 +628,7 @@
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-27" value="0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v-RLYn9fKf8f6NRElOlS-25" vertex="1" connectable="0">
           <mxGeometry x="-0.9266" y="-2" relative="1" as="geometry">
-            <mxPoint x="9" y="-9" as="offset" />
+            <mxPoint x="15" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UAUAr4L55qGhMqzZgOZg-2" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-67" edge="1">
