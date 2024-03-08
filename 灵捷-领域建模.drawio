@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:34:26.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5SXuy8SJmFrPYUJGqkQH" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:35:19.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mh42aDDxabCq2VNxLwRE" version="24.0.1" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
     <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,9 +62,6 @@
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-19" value="应用管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="650" y="-51" width="760" height="821" as="geometry" />
         </mxCell>
-        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;制品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
-          <mxGeometry x="200" y="536" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-23" value="{&lt;br&gt;&amp;nbsp; 子应用不能成为父应用&lt;div&gt;&amp;nbsp; 子应用只能有一个父应用&lt;br&gt;&amp;nbsp; 创建应用的时候，同时也要将中台的应用创建出来，并能够将应用的菜单配置出来&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
           <mxGeometry x="431" y="521" width="160" height="150" as="geometry" />
         </mxCell>
@@ -93,7 +90,7 @@
           <mxGeometry x="240" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-30" value="项目管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="-81" width="810" height="961" as="geometry" />
+          <mxGeometry x="-410" y="-81" width="840" height="961" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-32" value="{&lt;br&gt;&amp;nbsp; 项目必须有且只有一个项目经理&lt;div&gt;&amp;nbsp; 项目的开始时间不能大于结束时间&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-30" vertex="1">
           <mxGeometry x="250" y="400" width="170" height="120" as="geometry" />
@@ -555,15 +552,15 @@
             <mxPoint x="-14" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-RLYn9fKf8f6NRElOlS-15" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-20" edge="1">
+        <mxCell id="v-RLYn9fKf8f6NRElOlS-15" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-35" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
             <mxPoint x="1070" y="450" as="sourcePoint" />
-            <mxPoint x="1109.53" y="555" as="targetPoint" />
+            <mxPoint x="920" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-16" value="0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v-RLYn9fKf8f6NRElOlS-15" vertex="1" connectable="0">
           <mxGeometry x="0.7908" y="-1" relative="1" as="geometry">
-            <mxPoint x="-14" y="-16" as="offset" />
+            <mxPoint x="-43" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v-RLYn9fKf8f6NRElOlS-25" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="XD4aT4Mzu0UsRtTv3BFP-67" target="XD4aT4Mzu0UsRtTv3BFP-3" edge="1">
