@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T00:45:42.119Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dOl8Weoj6_WKYfRwHnGD" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T06:32:17.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vVJeXRgrzWReWr1i2Qi5" version="24.0.2" type="github">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
-    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;制品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
           <mxGeometry x="200" y="536" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-23" value="{&lt;br&gt;&amp;nbsp; 子应用不能成为父应用&lt;br&gt;&amp;nbsp; 创建应用的时候，同时也要将中台的应用创建出来，并能够将应用的菜单配置出来&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
+        <mxCell id="XD4aT4Mzu0UsRtTv3BFP-23" value="{&lt;br&gt;&amp;nbsp; 子应用不能成为父应用&lt;div&gt;&amp;nbsp; 子应用只能有一个父应用&lt;br&gt;&amp;nbsp; 创建应用的时候，同时也要将中台的应用创建出来，并能够将应用的菜单配置出来&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
           <mxGeometry x="431" y="521" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XD4aT4Mzu0UsRtTv3BFP-24" value="灵捷品台集成了中台的能力，但是中台和灵捷平台应该独立的进行演化，不能进行业务概念的耦合。因此中台可能不会做这种功能支撑." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fad7ac;strokeColor=#b46504;" parent="XD4aT4Mzu0UsRtTv3BFP-19" vertex="1">
@@ -671,7 +671,7 @@
             <mxPoint x="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JW-2C71cVqiBW9RW9-Jx-2" value="父应用&lt;div&gt;主分支&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UAUAr4L55qGhMqzZgOZg-2">
+        <mxCell id="JW-2C71cVqiBW9RW9-Jx-2" value="父应用&lt;div&gt;主分支&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UAUAr4L55qGhMqzZgOZg-2" vertex="1" connectable="0">
           <mxGeometry x="0.9456" relative="1" as="geometry">
             <mxPoint x="-22" y="-5" as="offset" />
           </mxGeometry>
