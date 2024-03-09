@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T10:31:47.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uQzRdwOCpcFCTEO5ph9d" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T10:32:14.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OYeyI_NPlZd-t3vzarfI" version="24.0.1" type="github">
   <diagram name="第 1 页" id="ucTD1p_uimW-5k4XuhUV">
     <mxGraphModel dx="2498" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="nVlB9J9zy38SJJber_sX-2" value="解空间映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVlB9J9zy38SJJber_sX-3" value="价值需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVlB9J9zy38SJJber_sX-4" value="价值需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
