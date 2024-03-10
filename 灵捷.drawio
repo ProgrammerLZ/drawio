@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T11:46:42.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NlaHPwX7GZ8hstw3HRTd" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:48:34.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c13iXlYyNPkyg6SiGQKw" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,10 +447,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jovh1wU3mqQYG6kwp3b7" name="切割业务场景">
-    <mxGraphModel dx="1883" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="1080" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="MMM0qO_1rLKSLsQCx9ue-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-4" target="cXpgiiZPRIzvw5U5wHyT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -458,6 +461,9 @@
           <mxGeometry x="960" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6lcrRJpXSbPBIccdrgy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-6" target="cXpgiiZPRIzvw5U5wHyT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-6" target="B6lcrRJpXSbPBIccdrgy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cXpgiiZPRIzvw5U5wHyT-6" value="发布应用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
@@ -492,7 +498,19 @@
           <mxGeometry x="780" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B6lcrRJpXSbPBIccdrgy-10" value="执行发布" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="1140" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B6lcrRJpXSbPBIccdrgy-11" target="B6lcrRJpXSbPBIccdrgy-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="870" as="sourcePoint" />
+            <mxPoint x="1110" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-14" value="业务人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="500" y="590" width="40" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-15" value="系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="500" y="910" width="40" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
