@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T12:03:40.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D2oqYJH-kxk_Zt3liMjc" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T12:06:06.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pv9A_MbBEdJYVHT9uP6G" version="24.0.3" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
-    <mxGraphModel dx="3085" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,7 +499,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jovh1wU3mqQYG6kwp3b7" name="切割业务场景">
-    <mxGraphModel dx="1883" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -563,6 +563,35 @@
         </mxCell>
         <mxCell id="B6lcrRJpXSbPBIccdrgy-15" value="系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="500" y="910" width="40" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CYuVk8ptcG3yx5-9dubJ" name="细分场景业务流程图">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="670" width="530" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=none;" vertex="1" parent="oYBl0n6NVD3K3t1FESrZ-19">
+          <mxGeometry x="40" width="490" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-15" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oYBl0n6NVD3K3t1FESrZ-19" source="oYBl0n6NVD3K3t1FESrZ-1" target="oYBl0n6NVD3K3t1FESrZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="144.375" as="sourcePoint" />
+            <mxPoint x="650" y="118.59375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-16" value="业务人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="oYBl0n6NVD3K3t1FESrZ-19">
+          <mxGeometry x="40" width="40" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-17" value="系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="oYBl0n6NVD3K3t1FESrZ-19">
+          <mxGeometry x="40" y="165" width="40" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="oYBl0n6NVD3K3t1FESrZ-18" value="软件系统创建啊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;" vertex="1" parent="oYBl0n6NVD3K3t1FESrZ-19">
+          <mxGeometry width="40" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
