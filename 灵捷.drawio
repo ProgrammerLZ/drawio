@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T11:51:08.714Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R5B7pfH4NU4aIyxBdCHs" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:53:19.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b1avRw35SmxLjFhJHvGO" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
-    <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3085" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,6 +448,15 @@
         </mxCell>
         <mxCell id="J01ZXg0pm4x2Wima-ATw-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1810" y="530" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkdFyt-fAJ9wPVRosK2V-1" value="软件系统分支创建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkdFyt-fAJ9wPVRosK2V-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="530" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkdFyt-fAJ9wPVRosK2V-4" value="变异" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="480" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
