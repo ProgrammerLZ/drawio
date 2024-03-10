@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:19:32.834Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gb0Bx9OWiw031g_PFnN6" version="24.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:21:05.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TFLRvc7kOInPgJWXTtol" version="24.0.3" type="github" pages="4">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="zIGo5X-WbKCoztDtTSZ9-21" value="统一语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="525" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-27" value="核心业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="620" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
