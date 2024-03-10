@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T03:29:27.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Gr4Ut87MrwKGZIP9O250" version="24.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-10T03:46:58.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lgltCm9dU64kOvoGV2ac" version="24.0.3" type="github" pages="3">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7ooDU0gzFNSbUYRDUWXN-1" value="全局分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="280" width="1690" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-1" value="解空间映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1170" y="585" width="120" height="60" as="geometry" />
         </mxCell>
@@ -40,6 +43,14 @@
         <mxCell id="4rqK88k5ho2fpKFqycjD-12" value="业务子域的识别和分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SErr6NpG_LGxfTJQBRPE" name="全局分析">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
