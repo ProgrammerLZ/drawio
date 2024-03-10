@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T12:06:06.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pv9A_MbBEdJYVHT9uP6G" version="24.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-10T12:07:14.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S_PSQY9yJodI2OGTuKoy" version="24.0.3" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bnOlcWFqKYW7avZ2D6Il" name="核心业务流程">
-    <mxGraphModel dx="1883" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,12 +457,6 @@
             <mxPoint x="1370" y="347.1875" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUJ8-BQEInXk1SRiFmkI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
-          <mxGeometry x="90" y="90" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fUJ8-BQEInXk1SRiFmkI-2" value="创建目标" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
-          <mxGeometry x="100" y="40" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="fUJ8-BQEInXk1SRiFmkI-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
           <mxGeometry x="630" y="90" width="120" height="20" as="geometry" />
         </mxCell>
@@ -476,10 +470,10 @@
           <mxGeometry x="1085" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2FR1CnNvw8v0eWyRqNI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
-          <mxGeometry x="270" y="90" width="300" height="20" as="geometry" />
+          <mxGeometry x="90" y="90" width="480" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d2FR1CnNvw8v0eWyRqNI-2" value="项目建立" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
-          <mxGeometry x="370" y="40" width="100" height="40" as="geometry" />
+        <mxCell id="d2FR1CnNvw8v0eWyRqNI-2" value="开发目标建立" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="3bFfcdTq9O4-BBw6Qixh-18">
+          <mxGeometry x="280" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3bFfcdTq9O4-BBw6Qixh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="3bFfcdTq9O4-BBw6Qixh-9">
           <mxGeometry relative="1" as="geometry">
