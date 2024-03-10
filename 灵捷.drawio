@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T03:56:57.437Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DRSBJX80OMsjTDzvOkgv" version="24.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-10T04:04:41.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OqMsmWsd7GEkRqwHeczp" version="24.0.3" type="github" pages="3">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,35 +54,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="250" width="600" height="460" as="geometry" />
+        <mxCell id="zeEpGYYlEmbRYm3sEH9o-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="120" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-1" value="重要伙伴" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry width="120" height="315.4285714285714" as="geometry" />
+        <mxCell id="zeEpGYYlEmbRYm3sEH9o-23" value="Text" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-2" value="关键业务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="120" width="120" height="157.7142857142857" as="geometry" />
+        <mxCell id="zeEpGYYlEmbRYm3sEH9o-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-3" value="价值主张" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="240" width="120" height="315.4285714285714" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-4" value="客户关系&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="360" width="120" height="157.7142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-5" value="渠道通路" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="360" y="157.7142857142857" width="120" height="157.7142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-6" value="客户细分" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="480" width="120" height="315.4285714285714" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-7" value="核心资源" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="120" y="157.7142857142857" width="120" height="157.7142857142857" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-8" value="重要伙伴" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry y="315.4285714285714" width="290" height="144.57142857142856" as="geometry" />
-        </mxCell>
-        <mxCell id="zeEpGYYlEmbRYm3sEH9o-10" value="重要伙伴" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="zeEpGYYlEmbRYm3sEH9o-14">
-          <mxGeometry x="290" y="315.4285714285714" width="310" height="144.57142857142856" as="geometry" />
+        <mxCell id="zeEpGYYlEmbRYm3sEH9o-25" value="Text" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
