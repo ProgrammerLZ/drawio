@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T01:48:57.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6GhKwt9YtT5ujx0BMyA0" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T03:16:24.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6GBd1DwSq14hblptIYG_" version="24.0.3" type="github" pages="2">
   <diagram name="领域模型" id="Vdfozk7uvms10Qj7DWLC">
-    <mxGraphModel dx="2793" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,6 +624,50 @@
             <mxPoint x="925" y="545" as="sourcePoint" />
             <mxPoint x="980" y="614" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Bya8YVAi6foZ-Rw3QWvD" name="整体工作流程">
+    <mxGraphModel dx="3088" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-1" value="解空间映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W6MPHKf1kPhkQsMJVkWc-3" target="W6MPHKf1kPhkQsMJVkWc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-3" value="价值需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W6MPHKf1kPhkQsMJVkWc-5" target="W6MPHKf1kPhkQsMJVkWc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-5" value="产品需求输入和统一语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W6MPHKf1kPhkQsMJVkWc-7" target="W6MPHKf1kPhkQsMJVkWc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-7" value="核心业务流程和业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W6MPHKf1kPhkQsMJVkWc-9" target="W6MPHKf1kPhkQsMJVkWc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-9" value="各场景下的业务流程图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W6MPHKf1kPhkQsMJVkWc-11" target="W6MPHKf1kPhkQsMJVkWc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-11" value="服务蓝图和业务用例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W6MPHKf1kPhkQsMJVkWc-12" value="业务子域的识别和分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
