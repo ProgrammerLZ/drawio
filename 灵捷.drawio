@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:21:05.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TFLRvc7kOInPgJWXTtol" version="24.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:23:03.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="atR-UJWLdbI_uZZrYczm" version="24.0.3" type="github" pages="4">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,11 +39,11 @@
         <mxCell id="4rqK88k5ho2fpKFqycjD-5" value="产品需求输入和统一语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1170" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-7" value="核心业务流程和业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4rqK88k5ho2fpKFqycjD-7" value="核心业务流程识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1170" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-9" value="各场景下的业务流程图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1180" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-11" value="服务蓝图和业务用例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="370" width="120" height="60" as="geometry" />
@@ -85,6 +85,12 @@
         </mxCell>
         <mxCell id="zIGo5X-WbKCoztDtTSZ9-27" value="核心业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-28" value="核心业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-29" value="切割业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
