@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T10:37:14.889Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="m3yA2CiWYTMeBB5oH8y8" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:24:53.693Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IswnJlr5GbJOu8T5Guke" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bnOlcWFqKYW7avZ2D6Il" name="核心业务流程">
-    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,35 +427,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OXzYwtyFtrcg90D5N586-2" value="软件系统创建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-2" target="cXpgiiZPRIzvw5U5wHyT-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-4" value="项目创建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-2" value="软件系统建立" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-6" value="为项目添加需求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="730" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-3" target="cXpgiiZPRIzvw5U5wHyT-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-8" value="项目开发" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="910" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-3" value="项目创建" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="550" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-10" value="为项目添加制品" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-4" target="cXpgiiZPRIzvw5U5wHyT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-12" value="创建应用" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-4" value="项目开发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="730" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-14" value="为应用添加制品" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-6" target="cXpgiiZPRIzvw5U5wHyT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-16" value="创建发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-7" target="cXpgiiZPRIzvw5U5wHyT-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OXzYwtyFtrcg90D5N586-17" value="执行发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-6" value="为项目添加制品" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="910" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cXpgiiZPRIzvw5U5wHyT-1" value="软件系统分支创建" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="370" y="750" width="120" height="60" as="geometry" />
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-7" value="发布应用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-8" target="cXpgiiZPRIzvw5U5wHyT-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="760" />
+              <mxPoint x="1410" y="620" />
+              <mxPoint x="610" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cXpgiiZPRIzvw5U5wHyT-8" value="软件系统分支创建" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
