@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T11:25:40.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CQQ_q2PGZgXhFr6IwGP4" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:26:17.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zBz719Vi4uxci8NwcjUU" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -441,9 +441,6 @@
         <mxCell id="cXpgiiZPRIzvw5U5wHyT-4" value="项目开发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="730" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MMM0qO_1rLKSLsQCx9ue-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-6" target="cXpgiiZPRIzvw5U5wHyT-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MMM0qO_1rLKSLsQCx9ue-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="cXpgiiZPRIzvw5U5wHyT-7" target="cXpgiiZPRIzvw5U5wHyT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -451,10 +448,13 @@
           <mxGeometry x="910" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXpgiiZPRIzvw5U5wHyT-7" value="发布应用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXpgiiZPRIzvw5U5wHyT-8" value="软件系统分支创建" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1380" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MMM0qO_1rLKSLsQCx9ue-7" value="应用创建" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
