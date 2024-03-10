@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:26:56.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ktdrtxIyyDcADWTQc4gB" version="24.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:27:37.280Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LMg2eahiTDxf4h9jENVW" version="24.0.3" type="github" pages="4">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,11 +107,14 @@
         <mxCell id="zIGo5X-WbKCoztDtTSZ9-27" value="核心业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="635" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zIGo5X-WbKCoztDtTSZ9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIGo5X-WbKCoztDtTSZ9-29" target="zIGo5X-WbKCoztDtTSZ9-33">
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zIGo5X-WbKCoztDtTSZ9-29" target="zIGo5X-WbKCoztDtTSZ9-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zIGo5X-WbKCoztDtTSZ9-35" value="产出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIGo5X-WbKCoztDtTSZ9-34">
-          <mxGeometry x="-0.04" relative="1" as="geometry">
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIGo5X-WbKCoztDtTSZ9-29" target="zIGo5X-WbKCoztDtTSZ9-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-42" value="产出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIGo5X-WbKCoztDtTSZ9-41">
+          <mxGeometry x="-0.5304" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -119,10 +122,13 @@
           <mxGeometry x="-1170" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zIGo5X-WbKCoztDtTSZ9-33" value="主体业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="745" width="90" height="30" as="geometry" />
+          <mxGeometry x="-950" y="760" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zIGo5X-WbKCoztDtTSZ9-36" value="每个场景的业务流程图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="865" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-39" value="各个场景的文档描述" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="730" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
