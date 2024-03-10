@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T12:39:30.936Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6N7l0d7mciLWeHLsKKMM" version="24.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-10T12:41:06.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Un2j4XEFpeBqBsS8bzme" version="24.0.3" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,6 +506,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_Duv0TMo6_ETRFcRY76W-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2596" width="1100" height="255" as="geometry" />
+        </mxCell>
         <mxCell id="_Duv0TMo6_ETRFcRY76W-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=none;container=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="2341" width="1100" height="255" as="geometry" />
         </mxCell>
@@ -530,7 +533,7 @@
         <mxCell id="_Duv0TMo6_ETRFcRY76W-42" value="项目开发" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="1007.0718232044198" y="2188" width="90.82872928176795" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="_Duv0TMo6_ETRFcRY76W-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="_Duv0TMo6_ETRFcRY76W-45" target="_Duv0TMo6_ETRFcRY76W-48">
+        <mxCell id="_Duv0TMo6_ETRFcRY76W-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Duv0TMo6_ETRFcRY76W-51" target="_Duv0TMo6_ETRFcRY76W-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_Duv0TMo6_ETRFcRY76W-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="_Duv0TMo6_ETRFcRY76W-45" target="_Duv0TMo6_ETRFcRY76W-51">
@@ -538,6 +541,13 @@
         </mxCell>
         <mxCell id="_Duv0TMo6_ETRFcRY76W-45" value="发布准备" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="1150.8839779005525" y="2460" width="90.82872928176795" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="_Duv0TMo6_ETRFcRY76W-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="_Duv0TMo6_ETRFcRY76W-48" target="_Duv0TMo6_ETRFcRY76W-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1053" y="1959" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_Duv0TMo6_ETRFcRY76W-48" value="差异化软件系统分裂" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="1279.5580110497237" y="1933" width="90.82872928176795" height="51" as="geometry" />
@@ -555,9 +565,6 @@
         </mxCell>
         <mxCell id="_Duv0TMo6_ETRFcRY76W-52" value="发布人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;container=0;" vertex="1" parent="1">
           <mxGeometry x="749.72" y="2341" width="30.276243093922652" height="255" as="geometry" />
-        </mxCell>
-        <mxCell id="_Duv0TMo6_ETRFcRY76W-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=none;container=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="2596" width="1100" height="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
