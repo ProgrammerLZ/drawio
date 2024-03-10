@@ -1,50 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:07:28.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="A1Cr3S2MeTpOfIFVfp5A" version="24.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:09:22.925Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xGyVoE1jE5yIb79GhGhb" version="24.0.3" type="github" pages="4">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3085" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zIGo5X-WbKCoztDtTSZ9-1" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="290" width="1480" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="7ooDU0gzFNSbUYRDUWXN-2" value="解空间分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-1330" y="1100" width="1490" height="230" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-1" value="解空间映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rqK88k5ho2fpKFqycjD-3" target="4rqK88k5ho2fpKFqycjD-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-3" value="价值需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1170" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rqK88k5ho2fpKFqycjD-5" target="4rqK88k5ho2fpKFqycjD-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-5" value="产品需求输入和统一语言" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-950" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rqK88k5ho2fpKFqycjD-7" target="4rqK88k5ho2fpKFqycjD-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-7" value="核心业务流程和业务场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rqK88k5ho2fpKFqycjD-9" target="4rqK88k5ho2fpKFqycjD-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-9" value="各场景下的业务流程图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4rqK88k5ho2fpKFqycjD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rqK88k5ho2fpKFqycjD-11" target="4rqK88k5ho2fpKFqycjD-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-11" value="服务蓝图和业务用例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4rqK88k5ho2fpKFqycjD-12" value="业务子域的识别和分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="500" width="1070" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-3" value="价值需求分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-5" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zIGo5X-WbKCoztDtTSZ9-6" value="输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="585" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
