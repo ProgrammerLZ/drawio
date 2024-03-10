@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T11:45:30.293Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="J9XyJ4c2wEdSuGv2B8cK" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:46:42.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NlaHPwX7GZ8hstw3HRTd" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,9 @@
         </mxCell>
         <mxCell id="B6lcrRJpXSbPBIccdrgy-2" value="项目创建" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="780" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B6lcrRJpXSbPBIccdrgy-10" value="执行发布" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
