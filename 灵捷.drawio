@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T11:48:51.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SuPniJSdQFyOm5gIIkYh" version="24.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-10T11:49:38.846Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="t8MtcnZ7LAmv_wSf8a6B" version="24.0.3" type="github" pages="5">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3537" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,7 +364,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bnOlcWFqKYW7avZ2D6Il" name="核心业务流程">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,16 +432,22 @@
           <mxGeometry x="920" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fUJ8-BQEInXk1SRiFmkI-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="530" width="850" height="20" as="geometry" />
+          <mxGeometry x="1080" y="530" width="670" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fUJ8-BQEInXk1SRiFmkI-6" value="发布应用" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="1455" y="480" width="100" height="40" as="geometry" />
+        <mxCell id="fUJ8-BQEInXk1SRiFmkI-6" value="发布准备" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2FR1CnNvw8v0eWyRqNI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="1">
           <mxGeometry x="550" y="530" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d2FR1CnNvw8v0eWyRqNI-2" value="项目建立" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="650" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J01ZXg0pm4x2Wima-ATw-1" value="执行发布" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="480" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="J01ZXg0pm4x2Wima-ATw-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="530" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
