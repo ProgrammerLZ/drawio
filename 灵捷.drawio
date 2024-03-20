@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:35:09.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iG5DZbtxetJLqlmLFU5S" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:35:26.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6g4VP4vw8Wg9PBvwfki8" version="24.0.7" type="github" pages="7">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -486,7 +486,7 @@
         <mxCell id="d2FR1CnNvw8v0eWyRqNI-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;container=0;" parent="J2tR5aJzmJNConRNMPgC-1" vertex="1">
           <mxGeometry x="90" y="90" width="480" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="d2FR1CnNvw8v0eWyRqNI-2" value="开发目标建立" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;container=0;" parent="J2tR5aJzmJNConRNMPgC-1" vertex="1">
+        <mxCell id="d2FR1CnNvw8v0eWyRqNI-2" value="软件系统建立" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#46495D;container=0;" parent="J2tR5aJzmJNConRNMPgC-1" vertex="1">
           <mxGeometry x="280" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EGdhaZ8fDP2wuZxF5DyI-1" value="开发人员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;strokeColor=default;textDirection=vertical-lr;container=0;" parent="J2tR5aJzmJNConRNMPgC-1" vertex="1">
