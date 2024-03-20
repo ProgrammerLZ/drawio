@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T00:36:12.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XFy7bDwmX7vLr_jGZivu" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-20T00:40:03.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EIJmd8o-JPV_6G172eYn" version="24.0.7" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
-    <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3300" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -855,7 +855,7 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-32" value="项目管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-410" y="-81" width="810" height="961" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-33" value="{&lt;br&gt;&amp;nbsp; 项目必须有且只有一个项目经理&lt;div&gt;&amp;nbsp; 项目的开始时间不能大于结束时间&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-33" value="{&lt;br&gt;&amp;nbsp; 项目必须有且只有一个项目经理&lt;div&gt;&amp;nbsp; 项目的开始时间不能大于结束时间&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
           <mxGeometry x="250" y="400" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;制品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
@@ -892,22 +892,13 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-42" value="&lt;div&gt;- 进行中&lt;br&gt;- 已关闭&lt;br&gt;- 挂起&lt;br&gt;- 未启动&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-41" vertex="1">
           <mxGeometry y="59" width="140" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-43" value="{&lt;br&gt;&amp;nbsp; 制品的名称+版本号&lt;span style=&quot;background-color: initial;&quot;&gt;不可重复&lt;/span&gt;&lt;div&gt;&amp;nbsp; 已经被添加到应用当中的制品不可被删除&lt;/div&gt;&lt;div&gt;&amp;nbsp; 制品的包，要存储在指定的目录下，例如agileleap/usims/dorms/1.0.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;发行包不可修改&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;名称和版本号不可修改&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;打包时间不可修改&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-43" value="{&lt;br&gt;&amp;nbsp; 制品的名称+版本号&lt;span style=&quot;background-color: initial;&quot;&gt;不可重复&lt;/span&gt;&lt;div&gt;&amp;nbsp; 已经被添加到应用当中的制品不可被删除&lt;/div&gt;&lt;div&gt;&amp;nbsp; 制品的包，要存储在指定的目录下，例如agileleap/usims/dorms/1.0.json&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;发行包不可修改&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;名称和版本号不可修改&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;打包时间不可修改&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;制品当中存在菜单相关信息&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
           <mxGeometry x="590" y="691" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-44" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=default;" parent="-UBgynzwQVij8Gu3h8DZ-32" source="-UBgynzwQVij8Gu3h8DZ-34" target="-UBgynzwQVij8Gu3h8DZ-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="965" y="1251" as="sourcePoint" />
             <mxPoint x="925" y="1281" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-45" value="制品当中存在菜单相关信息" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-32" vertex="1">
-          <mxGeometry x="260" y="701" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-46" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=default;" parent="-UBgynzwQVij8Gu3h8DZ-32" source="-UBgynzwQVij8Gu3h8DZ-34" target="-UBgynzwQVij8Gu3h8DZ-45" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="650" y="651" as="sourcePoint" />
-            <mxPoint x="585" y="711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;aggregateroot&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;项目&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
