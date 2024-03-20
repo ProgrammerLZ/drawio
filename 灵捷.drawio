@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T00:40:03.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EIJmd8o-JPV_6G172eYn" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-20T00:42:04.112Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VifgdZZh4Y-2qnL6fbWb" version="24.0.7" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3300" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -724,7 +724,7 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-1" value="软件管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;align=center;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="650" y="-720" width="761" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-2" value="{&lt;br&gt;&amp;nbsp; 子系统不能成为父系统&lt;br&gt;&amp;nbsp; 父系统不能是已停用状态&lt;br&gt;&amp;nbsp; 没有父系统的系统其本身则为主分支&lt;br&gt;&amp;nbsp; 被添加的应用必须没有从属的系统&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-1" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-2" value="{&lt;br&gt;&amp;nbsp; 子系统不能成为父系统&lt;br&gt;&amp;nbsp; 父系统不能是已停用状态&lt;br&gt;&amp;nbsp; 没有父系统的系统其本身则为主分支&lt;br&gt;&amp;nbsp; 被添加的应用必须没有从属的系统&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-1" vertex="1">
           <mxGeometry x="370" y="50" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;软件系统&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-1" vertex="1">
@@ -813,16 +813,16 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;制品&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
           <mxGeometry x="200" y="536" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-23" value="{&lt;br&gt;&amp;nbsp; 子应用不能成为父应用&lt;div&gt;&amp;nbsp; 子应用只能有一个父应用&lt;br&gt;&amp;nbsp; 创建应用的时候，同时也要将中台的应用创建出来，并能够将应用的菜单配置出来&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-23" value="{&lt;br&gt;&amp;nbsp; 子应用不能成为父应用&lt;div&gt;&amp;nbsp; 子应用只能有一个父应用&lt;br&gt;&amp;nbsp; 创建应用的时候，同时也要将中台的应用创建出来，并能够将应用的菜单配置出来&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
           <mxGeometry x="431" y="521" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-24" value="灵捷品台集成了中台的能力，但是中台和灵捷平台应该独立的进行演化，不能进行业务概念的耦合。&lt;div&gt;与中台中的应用，一一对应，在创建本平台的应用的时候，也要把中台中的应用创建出来，并且把该应用的菜单配置好&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-24" value="灵捷品台集成了中台的能力，但是中台和灵捷平台应该独立的进行演化，不能进行业务概念的耦合。&lt;div&gt;与中台中的应用，一一对应，在创建本平台的应用的时候，也要把中台中的应用创建出来，并且把该应用的菜单配置好&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
           <mxGeometry x="90" y="81" width="160" height="216" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-25" value="子应用&lt;div&gt;子分支&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;labelBackgroundColor=none;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-21" connectable="0" vertex="1">
           <mxGeometry x="340" y="457" as="geometry" />
         </mxCell>
-        <mxCell id="7yyeEimfuHGKdgqkBHQ5-1" value="{&lt;br&gt;&lt;div&gt;&amp;nbsp; 制品不可重复添加&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
+        <mxCell id="7yyeEimfuHGKdgqkBHQ5-1" value="{&lt;br&gt;&lt;div&gt;&amp;nbsp; 制品不可重复添加&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-21" vertex="1">
           <mxGeometry x="90" y="671" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7yyeEimfuHGKdgqkBHQ5-3" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=default;entryX=0;entryY=0;entryDx=67.5;entryDy=0;entryPerimeter=0;" parent="-UBgynzwQVij8Gu3h8DZ-21" source="-UBgynzwQVij8Gu3h8DZ-22" target="7yyeEimfuHGKdgqkBHQ5-1" edge="1">
@@ -837,7 +837,7 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-27" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能再次执行&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="660" y="190" width="160" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-28" value="{&lt;br&gt;&amp;nbsp; 已发布不可删除&lt;br&gt;&amp;nbsp; 中间件任务已发布不可删除、不可编辑&lt;br&gt;&amp;nbsp; 应用任务已发布后只能变更版本&lt;div&gt;&amp;nbsp; 任务不可重复添加&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-28" value="{&lt;br&gt;&amp;nbsp; 已发布不可删除&lt;br&gt;&amp;nbsp; 基础任务已发布不可删除、不可编辑&lt;br&gt;&amp;nbsp; 应用任务已发布后只能变更版本&lt;div&gt;&amp;nbsp; 任务不可重复添加&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="350" y="430" width="160" height="156" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-29" value="agent要单独部署，并拆分模块" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
@@ -1070,7 +1070,7 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-77" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;数据源类型&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="2620" y="485" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-78" value="- oracle&lt;br&gt;- mysql" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-78" value="- oracle&lt;br&gt;- mysql" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2880" y="545" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-79" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#788AA3;fontColor=default;" parent="1" source="-UBgynzwQVij8Gu3h8DZ-78" target="-UBgynzwQVij8Gu3h8DZ-77" edge="1">
