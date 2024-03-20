@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:41:20.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ONF7cMvleMEDVI3rAoIe" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:41:36.953Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aI3yrdrLqIb6fJFuRjkg" version="24.0.7" type="github" pages="7">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3540" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -675,7 +675,7 @@
         <mxCell id="hgbbfKcGKELhF2TclCbK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hgbbfKcGKELhF2TclCbK-5" target="hgbbfKcGKELhF2TclCbK-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hgbbfKcGKELhF2TclCbK-5" value="取任务执行" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;container=0;" vertex="1" parent="1">
+        <mxCell id="hgbbfKcGKELhF2TclCbK-5" value="取任务执行（不可影响现有服务）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;container=0;" vertex="1" parent="1">
           <mxGeometry x="797.1701886792455" y="1656.75" width="92.83000000000004" height="47" as="geometry" />
         </mxCell>
         <mxCell id="hgbbfKcGKELhF2TclCbK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hgbbfKcGKELhF2TclCbK-7" target="hgbbfKcGKELhF2TclCbK-11">
