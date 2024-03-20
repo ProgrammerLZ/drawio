@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T00:33:07.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-SHbMiiF_7Ro70eKOpk7" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-20T00:36:05.216Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="COYLujohFMVaXdyk8QxY" version="24.0.7" type="github" pages="6">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="领域建模" id="hsVFEAZQAEEvjb_Sa2gN">
-    <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -834,13 +834,13 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-26" value="发布管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1510" y="-30" width="884" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-27" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能再次执行&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-27" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能再次执行&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="660" y="190" width="160" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-28" value="{&lt;br&gt;&amp;nbsp; 已发布不可删除&lt;br&gt;&amp;nbsp; 中间件任务已发布不可删除、不可编辑&lt;br&gt;&amp;nbsp; 应用任务已发布后只能变更版本&lt;div&gt;&amp;nbsp; 任务不可重复添加&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-28" value="{&lt;br&gt;&amp;nbsp; 已发布不可删除&lt;br&gt;&amp;nbsp; 中间件任务已发布不可删除、不可编辑&lt;br&gt;&amp;nbsp; 应用任务已发布后只能变更版本&lt;div&gt;&amp;nbsp; 任务不可重复添加&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="350" y="430" width="160" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-29" value="agent要单独部署，并拆分模块" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-29" value="agent要单独部署，并拆分模块" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="730" y="670" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-30" value="用户管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -1144,7 +1144,7 @@
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-89" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;任务&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1629" y="284" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-91" value="- 发布基础应用&lt;br&gt;- 发布业务应用&lt;br&gt;- 中台初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="-UBgynzwQVij8Gu3h8DZ-91" value="- 发布基础应用&lt;br&gt;- 发布业务应用&lt;br&gt;- 中台初始化" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2029" y="284" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-92" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=default;" parent="1" source="-UBgynzwQVij8Gu3h8DZ-93" target="-UBgynzwQVij8Gu3h8DZ-91" edge="1">
