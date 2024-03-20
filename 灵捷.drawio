@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:42:05.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VUHV3AiKMaXwGAVoIY7j" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:42:23.763Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tsIjuzTab7NwjT2HdnvF" version="24.0.7" type="github" pages="8">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3540" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1309,6 +1309,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8UfdWqTWsqeUdhXgTLwT" name="任务执行逻辑">
+    <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="x8jaUhplcErh39FiC6kO" name="任务回滚逻辑">
     <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
