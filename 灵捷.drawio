@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T05:51:52.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3_p6m7xoWrvDjWJFTuBs" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-21T05:53:34.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_B0hObloP9HgnS8Fx1kx" version="24.0.7" type="github" pages="9">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3540" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1368,7 +1368,7 @@
         <mxCell id="HxbFgkM3BwwosScdaICc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xq6FgoeVzfyKNcydLv0z-4" target="HxbFgkM3BwwosScdaICc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xq6FgoeVzfyKNcydLv0z-4" value="到中台上创建应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xq6FgoeVzfyKNcydLv0z-4" value="call中台，创建应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="710" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xq6FgoeVzfyKNcydLv0z-5" value="基础应用任务执行逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
@@ -1377,19 +1377,19 @@
         <mxCell id="HxbFgkM3BwwosScdaICc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HxbFgkM3BwwosScdaICc-1" target="HxbFgkM3BwwosScdaICc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxbFgkM3BwwosScdaICc-1" value="对应用进行“功能配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HxbFgkM3BwwosScdaICc-1" value="call中台，进行“功能配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="810" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HxbFgkM3BwwosScdaICc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HxbFgkM3BwwosScdaICc-2" target="HxbFgkM3BwwosScdaICc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxbFgkM3BwwosScdaICc-2" value="对应用进行“功能配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HxbFgkM3BwwosScdaICc-2" value="call中台，进行“功能配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="910" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HxbFgkM3BwwosScdaICc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HxbFgkM3BwwosScdaICc-10" target="HxbFgkM3BwwosScdaICc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HxbFgkM3BwwosScdaICc-10" value="对应用进行“访问配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HxbFgkM3BwwosScdaICc-10" value="call中台，进行“访问配置”" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="305" y="1010" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HxbFgkM3BwwosScdaICc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HxbFgkM3BwwosScdaICc-11" target="HxbFgkM3BwwosScdaICc-12">
