@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T05:43:15.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="e7btDT8mq62SbU83v8DY" version="24.0.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-21T05:44:44.868Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="2FjfL2hgC-SoBIVcnLHk" version="24.0.7" type="github" pages="9">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3540" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -534,7 +534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CYuVk8ptcG3yx5-9dubJ" name="业务场景分析">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,6 +745,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="752.8299999999999" y="1890" as="sourcePoint" />
             <mxPoint x="802.8299999999999" y="1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5jEtY4faeQ6p9kXSNMZ7-1" value="&lt;div&gt;任务类型：&lt;/div&gt;基础应用任务&lt;div&gt;业务应用任务&lt;/div&gt;&lt;div&gt;中台任务（待定）&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1220" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jEtY4faeQ6p9kXSNMZ7-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5jEtY4faeQ6p9kXSNMZ7-1" target="aImTzMcsTgFkDv239DFW-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="1910" as="sourcePoint" />
+            <mxPoint x="853" y="1714" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
