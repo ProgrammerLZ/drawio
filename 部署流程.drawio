@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T07:58:41.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HM20GCNAjcjK4Y_h-uKg" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:02:36.575Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q8ZUZ4A7gmckeDRhfn1Y" version="24.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -133,7 +133,7 @@
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-61" value="k8s中部署基础设施" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-160" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-64" value="外部准备&lt;div&gt;1. Rancher&lt;/div&gt;&lt;div&gt;2. 中台&lt;/div&gt;&lt;div&gt;3. MQ&lt;/div&gt;&lt;div&gt;4. 域名（SSL证书）&lt;/div&gt;&lt;div&gt;5. 配置中心数据导入&lt;/div&gt;&lt;div&gt;6. 存储类&lt;/div&gt;&lt;div&gt;7. app shell安装好&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-64" value="外部准备&lt;div&gt;1. Rancher&lt;/div&gt;&lt;div&gt;2. 中台&lt;/div&gt;&lt;div&gt;3. MQ&lt;/div&gt;&lt;div&gt;4. 域名（SSL证书）&lt;/div&gt;&lt;div&gt;5. 配置中心数据导入&lt;/div&gt;&lt;div&gt;6. 存储类&lt;/div&gt;&lt;div&gt;7. app shell安装好&lt;/div&gt;&lt;div&gt;8. 数据分析节点，/data/ms-elasticsearch目录要给zytec用户赋予权限&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-700" y="-280" width="220" height="170" as="geometry" />
         </mxCell>
       </root>
