@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:19:39.844Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hyYgI3a3NLp0pU7NflQE" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:22:43.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YOtcb8xUJdDKHF7fngC3" version="24.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,15 +92,15 @@
           <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-40" value="k8s中部署日志相关的所有服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-650" y="1534" width="120" height="60" as="geometry" />
+          <mxGeometry x="-533" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-41" value="fluentd&lt;div&gt;es&lt;/div&gt;&lt;div&gt;kibana&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-430" y="1574" width="70" height="90" as="geometry" />
+          <mxGeometry x="-400" y="1239" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-41" target="bLoDom8n8q_n5jIfxJ7S-40">
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-41" target="bLoDom8n8q_n5jIfxJ7S-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-420" y="1379" as="sourcePoint" />
-            <mxPoint x="-520" y="1299" as="targetPoint" />
+            <mxPoint x="-303" y="995" as="sourcePoint" />
+            <mxPoint x="-403" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-43" target="bLoDom8n8q_n5jIfxJ7S-57">
@@ -108,9 +108,6 @@
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-43" value="k8s中配置ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-44" value="中台中配置应用的权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-325" y="1694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-47" value="工具部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-350" y="290" width="120" height="60" as="geometry" />
@@ -184,11 +181,11 @@
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-80" value="k8s的pull-package服务中拉取所有的业务服务包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-180" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-81" value="k8s中部署所有的业务服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-540" y="1150" width="120" height="60" as="geometry" />
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-81" value="部署所有的业务服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-360" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-82" value="k8s中配置ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-710" y="1450" width="120" height="60" as="geometry" />
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-82" value="配置服务的ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-170" y="1150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-83" value="应用配置&lt;div&gt;访问授权&lt;/div&gt;&lt;div&gt;服务授权&lt;/div&gt;&lt;div&gt;功能授权&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-150" y="620" width="110" height="100" as="geometry" />
@@ -198,6 +195,18 @@
             <mxPoint x="-447" y="890" as="sourcePoint" />
             <mxPoint x="-470" y="850" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-85" value="fielbrowser" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-533" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-86" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-85" target="bLoDom8n8q_n5jIfxJ7S-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-123" y="1750" as="sourcePoint" />
+            <mxPoint x="-553" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-87" value="工具部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-703" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
