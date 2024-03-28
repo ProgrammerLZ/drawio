@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T01:58:02.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="NcvUF1Fz36kzW4YZD6er" version="24.1.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-28T07:21:16.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yddeNIpW0eoP9PDqcNH3" version="24.2.0" type="github" pages="9">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
-    <mxGraphModel dx="3088" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="领域建模" id="hsVFEAZQAEEvjb_Sa2gN">
-    <mxGraphModel dx="2473" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1366,11 +1366,17 @@
             <mxPoint x="980" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8QVpEkAYb9XC6hY6JWkX-1" value="发布执行" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="840" width="884" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="8QVpEkAYb9XC6hY6JWkX-2" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能再次执行&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="8QVpEkAYb9XC6hY6JWkX-1">
+          <mxGeometry x="540" y="190" width="160" height="102" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8UfdWqTWsqeUdhXgTLwT" name="任务执行逻辑">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1386,23 +1392,23 @@
         <mxCell id="HxbFgkM3BwwosScdaICc-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="325" y="810" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u0GEgdKDutxew5kA1ntz-1" value="创建lowcode-runtime" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="u0GEgdKDutxew5kA1ntz-1" value="创建lowcode-runtime" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0GEgdKDutxew5kA1ntz-2" value="将应用对应的制品，发布至lowcode-runtime中" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="u0GEgdKDutxew5kA1ntz-2" value="将应用对应的制品，发布至lowcode-runtime中" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0GEgdKDutxew5kA1ntz-3" value="创建这个应用在集群中的路由" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="u0GEgdKDutxew5kA1ntz-3" value="创建这个应用在集群中的路由" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0GEgdKDutxew5kA1ntz-5" value="基于k8s的实现" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="u0GEgdKDutxew5kA1ntz-5" value="基于k8s的实现" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="680" y="320" width="390" height="620" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="x8jaUhplcErh39FiC6kO" name="任务回滚逻辑">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
