@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T08:46:51.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4x8SsH2cL5K1xe5mJAAZ" version="24.2.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:03:32.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FdRMRMlHH93Gbvt8pJIb" version="24.2.1" type="github" pages="9">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="领域建模" id="hsVFEAZQAEEvjb_Sa2gN">
-    <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1396,21 +1396,24 @@
         <mxCell id="XxaJSeG0ELU_uFNEGRai-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;应用安装器&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="8QVpEkAYb9XC6hY6JWkX-1" vertex="1">
           <mxGeometry x="260" y="490" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="-UBgynzwQVij8Gu3h8DZ-34" target="-UBgynzwQVij8Gu3h8DZ-22">
+        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="-UBgynzwQVij8Gu3h8DZ-34" target="-UBgynzwQVij8Gu3h8DZ-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="540" as="sourcePoint" />
             <mxPoint x="630" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-2" value="1..1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontColor=#46495D;" connectable="0" vertex="1" parent="5_Lo4BDOTdLZ9TLluNkx-1">
+        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-2" value="1..1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontColor=#46495D;" parent="5_Lo4BDOTdLZ9TLluNkx-1" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-3" value="1...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;" vertex="1" connectable="0" parent="5_Lo4BDOTdLZ9TLluNkx-1">
+        <mxCell id="5_Lo4BDOTdLZ9TLluNkx-3" value="1...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;" parent="5_Lo4BDOTdLZ9TLluNkx-1" vertex="1" connectable="0">
           <mxGeometry x="-0.8417" y="1" relative="1" as="geometry">
             <mxPoint x="-28" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EBBGIeXxhExtQRFjqe0f-1" value="code 还是 id？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
