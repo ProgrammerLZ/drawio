@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T01:13:28.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7CpI7vQaAWJEH-NeBqed" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:07:53.952Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WcybFii6K2DARGHH68eW" version="24.2.1" type="github" pages="9">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -790,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="领域建模" id="hsVFEAZQAEEvjb_Sa2gN">
-    <mxGraphModel dx="3521" dy="2423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -905,7 +905,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-26" value="发布管理" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="-30" width="884" height="2020" as="geometry" />
+          <mxGeometry x="1510" y="-30" width="1350" height="2020" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-27" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能再次执行&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="540" y="190" width="160" height="102" as="geometry" />
@@ -927,9 +927,6 @@
             <mxPoint x="789" y="209" as="sourcePoint" />
             <mxPoint x="669" y="144" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gncsk-S5c5TzJoX2javB-1" value="{&lt;br&gt;&amp;nbsp; runtime不可重复创建&lt;div&gt;&amp;nbsp; 同一个应用不能安装在不同的runtime当中（因为会导致无法正常路由）&lt;/div&gt;&lt;div&gt;&amp;nbsp; 如果一个应用，第一次发布的时候有2个制品，第二次发布的时候有3个或者1个制品，这个时候应该怎么处理？&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="-UBgynzwQVij8Gu3h8DZ-26">
-          <mxGeometry x="70" y="1330" width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="gncsk-S5c5TzJoX2javB-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b data-sider-select-id=&quot;62c7fd07-ebba-4beb-8f1f-1a5a13f3bbef&quot;&gt;应用&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="-UBgynzwQVij8Gu3h8DZ-26">
           <mxGeometry x="310" y="1150" width="140" height="60" as="geometry" />
@@ -1492,6 +1489,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yoHaMPZQW48Hf0F_Z1ih" name="发布快照">
+    <mxGraphModel dx="1434" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qKj1i1RUy78_zY3QG_aw-5" value="发行包存储库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qKj1i1RUy78_zY3QG_aw-2" value="发行包 A1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qKj1i1RUy78_zY3QG_aw-3" value="发行包 A2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
