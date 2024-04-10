@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T07:25:04.941Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UGdIhP6qIV5Xtdyt-JpY" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:28:24.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZXoi-Oplgu4S7UWrt5aG" version="24.2.1" type="github" pages="8">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1485,7 +1485,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yoHaMPZQW48Hf0F_Z1ih" name="发布快照">
-    <mxGraphModel dx="4734" dy="5442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5186" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1551,6 +1551,11 @@
         <mxCell id="qgMmOFdDPImrcp5bsEmZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgMmOFdDPImrcp5bsEmZ-5" target="fSISoV_TOwv8W94ADyCI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-17" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qgMmOFdDPImrcp5bsEmZ-6">
+          <mxGeometry x="0.15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qgMmOFdDPImrcp5bsEmZ-5" value="制品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-600" y="160" width="100" height="20" as="geometry" />
         </mxCell>
@@ -1560,8 +1565,36 @@
         <mxCell id="qgMmOFdDPImrcp5bsEmZ-10" value="发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="90" width="430" height="360" as="geometry" />
         </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgMmOFdDPImrcp5bsEmZ-12" target="qgMmOFdDPImrcp5bsEmZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-21" value="第一次发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qgMmOFdDPImrcp5bsEmZ-20">
+          <mxGeometry x="-0.3491" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qgMmOFdDPImrcp5bsEmZ-12" value="发布" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-1335" y="122.5" width="360" height="95" as="geometry" />
+          <mxGeometry x="-1335" y="125" width="360" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-13" value="名称：内医大学工发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1320" y="162.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgMmOFdDPImrcp5bsEmZ-14" target="qgMmOFdDPImrcp5bsEmZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-16" value="包含" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qgMmOFdDPImrcp5bsEmZ-15">
+          <mxGeometry x="-0.0919" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-14" value="应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="162.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-18" value="发布快照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="580" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-19" value="快照" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="620" width="360" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
