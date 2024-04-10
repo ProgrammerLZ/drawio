@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T07:18:43.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7LSsyIDWFVNutUrWjWsx" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:20:38.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UCaYjYIzFyMXilUCssDX" version="24.2.1" type="github" pages="8">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1541,6 +1541,18 @@
         </mxCell>
         <mxCell id="qgMmOFdDPImrcp5bsEmZ-2" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-850" y="90" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-3" value="应用" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-815" y="125" width="360" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-4" value="名称：宿舍管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qgMmOFdDPImrcp5bsEmZ-5" target="fSISoV_TOwv8W94ADyCI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qgMmOFdDPImrcp5bsEmZ-5" value="制品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="160" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
