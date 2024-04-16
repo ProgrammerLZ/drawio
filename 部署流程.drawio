@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:10:54.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ZSu_k_33u6b5KRZ4zvkE" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T03:11:57.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-Yic3Gv-OYQ-wHbWo28T" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-88" value="messaging&lt;div&gt;tracking&lt;/div&gt;&lt;div&gt;searching&lt;/div&gt;&lt;div&gt;dictionary&lt;/div&gt;&lt;div&gt;lowcode-cook&lt;/div&gt;&lt;div&gt;lowcode-deploy-gateway&lt;/div&gt;&lt;div&gt;lowcode-guardian&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有前端的包&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="860" width="150" height="170" as="geometry" />
+          <mxGeometry x="430" y="860" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-88" target="bLoDom8n8q_n5jIfxJ7S-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,7 +152,7 @@
           <mxGeometry x="-50" y="65" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kxMak26ckprh1PsMX2pA-2" value="registry-secret&lt;div&gt;boot-pvc&lt;/div&gt;&lt;div&gt;pull-pakcage-pvc&lt;/div&gt;&lt;div&gt;tool-pvc&lt;/div&gt;&lt;div&gt;nginx&lt;/div&gt;&lt;div&gt;fluentd-pvc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-445" y="880" width="110" height="150" as="geometry" />
+          <mxGeometry x="-438" y="880" width="110" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ls25J3W9IPNRQxTHLXcJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kxMak26ckprh1PsMX2pA-3" target="bLoDom8n8q_n5jIfxJ7S-76">
           <mxGeometry relative="1" as="geometry" />
