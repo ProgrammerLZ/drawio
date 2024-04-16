@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:15:31.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ij0q8NrVnpjmOn365VEe" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T03:16:43.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dJSo5Jra2NGq1EqXeAhb" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,29 +91,14 @@
             <mxPoint x="-233" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-98" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-76" target="bLoDom8n8q_n5jIfxJ7S-77" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-76" value="k8s的pull-package持久卷放置必须的文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-90" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-99" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-77" target="bLoDom8n8q_n5jIfxJ7S-80" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-77" value="k8s中部署pull-package服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-78" value="所有的脚本&lt;div&gt;maven&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-70" y="880" width="90" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=32.5;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-78" target="bLoDom8n8q_n5jIfxJ7S-76" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40.5" y="940" as="sourcePoint" />
-            <mxPoint x="-35.5" y="860" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-80" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-80" value="k8s的pull-package服务中拉取所有的业务服务包" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-102" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-81" target="bLoDom8n8q_n5jIfxJ7S-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -134,12 +119,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-88" value="messaging&lt;div&gt;tracking&lt;/div&gt;&lt;div&gt;searching&lt;/div&gt;&lt;div&gt;dictionary&lt;/div&gt;&lt;div&gt;lowcode-cook&lt;/div&gt;&lt;div&gt;lowcode-deploy-gateway&lt;/div&gt;&lt;div&gt;lowcode-guardian&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;所有前端的包&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="865" width="150" height="180" as="geometry" />
+          <mxGeometry x="210" y="865" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-88" target="bLoDom8n8q_n5jIfxJ7S-80" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3" y="890" as="sourcePoint" />
-            <mxPoint x="-20" y="850" as="targetPoint" />
+            <mxPoint x="-167" y="890" as="sourcePoint" />
+            <mxPoint x="-190" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-91" target="bLoDom8n8q_n5jIfxJ7S-92" edge="1">
@@ -154,14 +139,14 @@
         <mxCell id="kxMak26ckprh1PsMX2pA-2" value="registry-secret&lt;div&gt;boot-pvc&lt;/div&gt;&lt;div&gt;pull-pakcage-pvc&lt;/div&gt;&lt;div&gt;tool-pvc&lt;/div&gt;&lt;div&gt;nginx&lt;/div&gt;&lt;div&gt;fluentd-pvc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-438" y="880" width="110" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Ls25J3W9IPNRQxTHLXcJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kxMak26ckprh1PsMX2pA-3" target="bLoDom8n8q_n5jIfxJ7S-76">
+        <mxCell id="Ls25J3W9IPNRQxTHLXcJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kxMak26ckprh1PsMX2pA-3" target="bLoDom8n8q_n5jIfxJ7S-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kxMak26ckprh1PsMX2pA-3" value="部署filebrowser" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-273" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ls25J3W9IPNRQxTHLXcJ-2" value="从远程下载所有卷中相应的包" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-273" y="880" width="110" height="150" as="geometry" />
+          <mxGeometry x="-273" y="880" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ls25J3W9IPNRQxTHLXcJ-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kxMak26ckprh1PsMX2pA-2" target="bLoDom8n8q_n5jIfxJ7S-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
