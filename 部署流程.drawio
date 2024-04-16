@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T03:13:38.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kCPOZSygSBC8vu2UUgPP" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T03:15:31.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ij0q8NrVnpjmOn365VEe" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2501" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-64" value="外部准备&lt;div&gt;1. Rancher&lt;/div&gt;&lt;div&gt;2. 中台&lt;/div&gt;&lt;div&gt;3. MQ&lt;/div&gt;&lt;div&gt;4. 域名（SSL证书）&lt;/div&gt;&lt;div&gt;5. 配置中心数据导入&lt;/div&gt;&lt;div&gt;6. 存储类&lt;/div&gt;&lt;div data-sider-select-id=&quot;3804fd7e-b8ad-4e94-b46b-e27dd143f4b2&quot;&gt;7. app shell安装好&lt;/div&gt;&lt;div data-sider-select-id=&quot;08f825d4-d1de-4067-8cb7-2164a5672277&quot;&gt;8. 数据分析节点，/data/ms-elasticsearch目录要给zytec用户赋予权限&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-70" y="-400" width="220" height="170" as="geometry" />
+          <mxGeometry x="-35" y="-400" width="220" height="170" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-94" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-65" target="bLoDom8n8q_n5jIfxJ7S-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
