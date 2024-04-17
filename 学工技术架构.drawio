@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T00:57:28.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qWSd48NgJnQT2K24XdUq" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T01:01:20.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mBVUFbxzh5tDn1xgM5vB" version="24.2.3" type="github">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-3" value="业务应用" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-3" value="业务服务层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-4" value="学生公寓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="305" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-5" value="低代码开发平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="440" height="220" as="geometry" />
+          <mxGeometry x="330" y="430" width="440" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-8" value="域管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="470" width="80" height="40" as="geometry" />
@@ -60,6 +60,24 @@
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-23" value="......." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-24" value="数据持久层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="800" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-25" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="830" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-26" value="Oracle" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="830" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-27" value="MongoDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="830" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-29" value="缓存层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="680" width="440" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-30" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
