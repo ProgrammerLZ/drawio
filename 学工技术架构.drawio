@@ -1,53 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T01:29:58.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="etyUG7ZQdfbga-A93AkJ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T02:06:31.769Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VfvkMtavB9TV3i2rGfpQ" version="24.2.3" type="github">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
-    <mxGraphModel dx="1886" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-3" value="学工业务服务层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-3" value="学工业务服务层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="520" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-4" value="学生公寓" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="305" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-5" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="430" width="520" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-8" value="域管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-9" value="模块管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="470" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-10" value="业务模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="470" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-11" value="数据模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="470" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-12" value="页面设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="540" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-13" value="表单设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="540" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-14" value="API设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="540" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-15" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="540" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-16" value="事件监听" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-17" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-18" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-19" value="认证授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="600" width="80" height="40" as="geometry" />
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-5" value="低代码运行平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="260" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-20" value="三方核验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="305" width="80" height="40" as="geometry" />
@@ -78,9 +42,6 @@
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-30" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="710" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-31" value="运行时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="470" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-37" value="监控诊断" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="620" as="geometry" />
@@ -128,19 +89,19 @@
           <mxGeometry x="720" y="10" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-54" value="中台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="110" width="520" height="100" as="geometry" />
+          <mxGeometry x="610" y="430" width="240" height="230" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-55" value="用户权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-56" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="470" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-57" value="功能授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="525" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-58" value="身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="740" y="525" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-59" value="Arthas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="710" width="80" height="40" as="geometry" />
@@ -155,7 +116,10 @@
           <mxGeometry x="700" y="930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-64" value="数据权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-66" value="定时任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="580" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
