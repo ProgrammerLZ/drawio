@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T03:09:48.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xZ7Hyo_8YN1JJkn20R_q" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T03:12:05.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5DXFDZ_cSaOn6htXk4xb" version="24.2.3" type="github">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1646" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-55" value="用户中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="445" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-56" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-56" value="服务授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="555" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-57" value="功能授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-64" value="数据授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-66" value="应用管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-66" value="应用中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="555" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-70" value="报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -127,7 +127,7 @@
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-81" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="575" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-82" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-82" value="配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="605" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-83" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
