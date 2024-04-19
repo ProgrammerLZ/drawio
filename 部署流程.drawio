@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T01:31:10.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MvVyOye2ggjKWn61u0K_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T01:48:19.570Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pF4csmfXp_IlGfEBOyfp" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-82" value="配置服务的ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-83" value="&lt;div&gt;应用凭证&lt;/div&gt;应用配置&lt;div&gt;访问授权&lt;/div&gt;&lt;div&gt;服务授权&lt;/div&gt;&lt;div&gt;功能授权&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="bLoDom8n8q_n5jIfxJ7S-83" value="&lt;div data-sider-select-id=&quot;583c161d-79b5-42da-bc4f-167546ff7348&quot;&gt;应用凭证&lt;/div&gt;应用配置&lt;div&gt;访问授权&lt;/div&gt;&lt;div&gt;服务授权&lt;/div&gt;&lt;div&gt;功能授权&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="60" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-84" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=42.5;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-83" target="bLoDom8n8q_n5jIfxJ7S-67" edge="1">
@@ -127,7 +127,7 @@
         <mxCell id="kxMak26ckprh1PsMX2pA-0" value="app_templates&lt;div&gt;datasource&lt;br&gt;&lt;div&gt;nosql&lt;/div&gt;&lt;div&gt;openapi&lt;/div&gt;&lt;div&gt;rabbit&lt;/div&gt;&lt;div&gt;mq&lt;/div&gt;&lt;div&gt;redis&lt;/div&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-225" y="60" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="kxMak26ckprh1PsMX2pA-1" value="&lt;div&gt;配置中心服务&lt;/div&gt;微服务统一网关&lt;div&gt;异步任务&lt;/div&gt;&lt;div&gt;应用管理&lt;/div&gt;&lt;div&gt;配置中心&lt;/div&gt;&lt;div data-sider-select-id=&quot;59089e71-1f18-4ccd-a7cc-cfcd65c23086&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kxMak26ckprh1PsMX2pA-1" value="&lt;div data-sider-select-id=&quot;fc6db637-6039-4288-ac06-9142e8a226ce&quot;&gt;配置中心服务&lt;/div&gt;微服务统一网关&lt;div&gt;异步任务&lt;/div&gt;&lt;div data-sider-select-id=&quot;96672959-7900-45d7-9b96-6296e8f2cf8e&quot;&gt;应用管理&lt;/div&gt;&lt;div data-sider-select-id=&quot;a86db7cb-f3ab-49d9-87f5-85e2f91b5586&quot;&gt;配置中心&lt;/div&gt;&lt;div data-sider-select-id=&quot;a86db7cb-f3ab-49d9-87f5-85e2f91b5586&quot;&gt;机构管理服务&lt;/div&gt;&lt;div data-sider-select-id=&quot;59089e71-1f18-4ccd-a7cc-cfcd65c23086&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-45" y="60" width="110" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kxMak26ckprh1PsMX2pA-2" value="registry-secret&lt;div&gt;boot-pvc&lt;/div&gt;&lt;div&gt;pull-pakcage-pvc&lt;/div&gt;&lt;div&gt;tool-pvc&lt;/div&gt;&lt;div&gt;nginx&lt;/div&gt;&lt;div&gt;fluentd-pvc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
