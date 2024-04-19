@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T03:30:21.724Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XTadQnxN0GIkWThdXLFg" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T05:20:51.711Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5oTMpoPJMFxYNrwCzvfh" version="24.2.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-90" value="配置中台" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-470" y="-60" width="1090" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-101" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-40" target="bLoDom8n8q_n5jIfxJ7S-81" edge="1">
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-40" target="Xh9s7hepuEPgODtvEkjb-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-40" value="k8s中部署日志相关的所有服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -94,15 +94,6 @@
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-80" value="k8s的pull-package服务中拉取所有的业务服务包" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-102" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bLoDom8n8q_n5jIfxJ7S-81" target="bLoDom8n8q_n5jIfxJ7S-82" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-81" value="部署所有的业务服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-100" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bLoDom8n8q_n5jIfxJ7S-82" value="配置服务的ingress" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="90" y="1230" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="bLoDom8n8q_n5jIfxJ7S-83" value="&lt;div data-sider-select-id=&quot;583c161d-79b5-42da-bc4f-167546ff7348&quot;&gt;应用凭证&lt;/div&gt;应用配置&lt;div&gt;访问授权&lt;/div&gt;&lt;div&gt;服务授权&lt;/div&gt;&lt;div&gt;功能授权&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="60" width="110" height="120" as="geometry" />
         </mxCell>
@@ -165,6 +156,21 @@
             <mxPoint x="20" y="70" as="sourcePoint" />
             <mxPoint x="20" y="40" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xh9s7hepuEPgODtvEkjb-0" target="Xh9s7hepuEPgODtvEkjb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-0" value="修改编排文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xh9s7hepuEPgODtvEkjb-3" target="Xh9s7hepuEPgODtvEkjb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-3" value="部署所有的业务服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xh9s7hepuEPgODtvEkjb-4" value="配置服务的ingress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
