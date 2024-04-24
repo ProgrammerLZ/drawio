@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T06:07:03.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="38dsRbUf1-Kv9FgSXdfl" version="24.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-24T06:08:50.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="_p5IjHjGQ6A9r9funjOX" version="24.2.7" type="github" pages="10">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1798,14 +1798,6 @@
         <mxCell id="QcdW9y8lw-T6tWGKtgba-5" value="lowcode-guardian" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="930" width="672.5" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="QcdW9y8lw-T6tWGKtgba-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QcdW9y8lw-T6tWGKtgba-12" target="QcdW9y8lw-T6tWGKtgba-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QcdW9y8lw-T6tWGKtgba-119" value="执行发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QcdW9y8lw-T6tWGKtgba-9">
-          <mxGeometry x="-0.2279" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QcdW9y8lw-T6tWGKtgba-12" value="agileleap" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="1350" width="155" height="50" as="geometry" />
         </mxCell>
@@ -2112,6 +2104,17 @@
         </mxCell>
         <mxCell id="QcdW9y8lw-T6tWGKtgba-115" value="db" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1022" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QcdW9y8lw-T6tWGKtgba-120" value="事件总线" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="250" width="50" height="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="QcdW9y8lw-T6tWGKtgba-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.044;entryY=0.979;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QcdW9y8lw-T6tWGKtgba-12" target="QcdW9y8lw-T6tWGKtgba-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QcdW9y8lw-T6tWGKtgba-122" value="执行发布事件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QcdW9y8lw-T6tWGKtgba-121">
+          <mxGeometry x="-0.0176" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
