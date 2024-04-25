@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T06:10:09.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D72Wmm_xWA35DWy1wHRv" version="24.2.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-25T06:11:04.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ixUVWeaeg0W-edy2E1ge" version="24.2.8" type="github" pages="10">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3088" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1839,9 +1839,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QcdW9y8lw-T6tWGKtgba-22" value="sync/pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QcdW9y8lw-T6tWGKtgba-21" vertex="1" connectable="0">
+        <mxCell id="QcdW9y8lw-T6tWGKtgba-22" value="pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QcdW9y8lw-T6tWGKtgba-21" vertex="1" connectable="0">
           <mxGeometry x="0.0485" y="1" relative="1" as="geometry">
-            <mxPoint x="20" y="-2" as="offset" />
+            <mxPoint x="-117" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QcdW9y8lw-T6tWGKtgba-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QcdW9y8lw-T6tWGKtgba-24" target="QcdW9y8lw-T6tWGKtgba-107" edge="1">
