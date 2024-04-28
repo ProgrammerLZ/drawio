@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T08:14:37.973Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qHAxIUCfgI4YlZj_B170" version="24.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-28T08:16:14.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FH3Xxonw7PgTjfT-XYI9" version="24.3.0" type="github" pages="2">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -217,6 +217,34 @@
         <mxCell id="_Y1lSZrRzt0vXUT2IQyG-4" value="1. 拉取master分支上的指定tag的代码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-3">
           <mxGeometry x="-0.0666" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-5" value="maven" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Y1lSZrRzt0vXUT2IQyG-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="260" as="sourcePoint" />
+            <mxPoint x="870" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-7" value="打包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-6">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-8" value="docker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="314.5" as="sourcePoint" />
+            <mxPoint x="870" y="314.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-10" value="构建镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-9">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
