@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T08:19:42.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eEu2NlfHFv64FNV878wr" version="24.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-28T08:21:14.282Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZIoKBjsxkWnZPWilft_S" version="24.3.0" type="github" pages="2">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -205,9 +205,9 @@
         <mxCell id="_Y1lSZrRzt0vXUT2IQyG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Y1lSZrRzt0vXUT2IQyG-1" target="_Y1lSZrRzt0vXUT2IQyG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-20" value="部署" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-19">
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-20" value="5.部署" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-19">
           <mxGeometry x="0.01" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_Y1lSZrRzt0vXUT2IQyG-1" value="升级系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
@@ -264,7 +264,7 @@
             <mxPoint x="640" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-15" value="3. 上传镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-14">
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-15" value="4. 上传镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_Y1lSZrRzt0vXUT2IQyG-14">
           <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
             <mxPoint y="-14" as="offset" />
           </mxGeometry>
