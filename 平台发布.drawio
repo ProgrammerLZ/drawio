@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T03:03:31.772Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="U8UZOKPvo6OQbuebKJrP" version="24.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-30T03:04:52.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OTlrgW0HIilruhMjgYbh" version="24.3.0" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -557,6 +557,9 @@
         <mxCell id="usXMfug6hDYWv9mWIihv-94" value="受限于只有dev分支，并且要保证master稳定" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-690" y="560" width="90" height="51" as="geometry" />
         </mxCell>
+        <mxCell id="usXMfug6hDYWv9mWIihv-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="usXMfug6hDYWv9mWIihv-96" target="usXMfug6hDYWv9mWIihv-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="usXMfug6hDYWv9mWIihv-96" value="operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1613.75" y="590" width="30" height="50" as="geometry" />
         </mxCell>
@@ -594,6 +597,9 @@
         </mxCell>
         <mxCell id="usXMfug6hDYWv9mWIihv-109" value="dev leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-253.75" y="647" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="usXMfug6hDYWv9mWIihv-116" value="记录某个学校，发布了哪个迭代的内容" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="530" width="90" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
