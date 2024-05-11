@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T00:07:37.422Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yVnYXkhQYMlD1ZYU32rT" version="24.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-11T00:08:19.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pwYY6QDzSlkqjTvDK9Xg" version="24.3.1" type="github" pages="10">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="2848" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1426,7 +1426,7 @@
           <mxGeometry x="870" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HxbFgkM3BwwosScdaICc-16" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="800" width="100" height="40" as="geometry" />
+          <mxGeometry x="870" y="900" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="k6Lkln8QUu6_tyRXz-L7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k6Lkln8QUu6_tyRXz-L7-14" target="k6Lkln8QUu6_tyRXz-L7-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1440,11 +1440,17 @@
         <mxCell id="k6Lkln8QUu6_tyRXz-L7-17" value="初始化runtime" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k6Lkln8QUu6_tyRXz-L7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k6Lkln8QUu6_tyRXz-L7-21" target="HxbFgkM3BwwosScdaICc-16" edge="1">
+        <mxCell id="sZ9_mtz16sIuRPUzOrLG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k6Lkln8QUu6_tyRXz-L7-21" target="sZ9_mtz16sIuRPUzOrLG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k6Lkln8QUu6_tyRXz-L7-21" value="调用Guardian在runtime中安装应用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ9_mtz16sIuRPUzOrLG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sZ9_mtz16sIuRPUzOrLG-1" target="HxbFgkM3BwwosScdaICc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ9_mtz16sIuRPUzOrLG-1" value="创建应用的路由" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
