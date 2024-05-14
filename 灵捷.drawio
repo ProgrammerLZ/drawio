@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T09:36:17.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8aRnrXzRvPLMeNo47l3G" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-05-14T09:36:56.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jCRacADX4hUyQeqXlAYo" version="24.4.0" type="github" pages="11">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -908,10 +908,7 @@
           <mxGeometry x="1510" y="-30" width="1350" height="2020" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-27" value="{&lt;br&gt;&amp;nbsp; 正在执行中的发布，不能对其进行任何操作，包括：保存、发布、删除&lt;br&gt;}" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;labelBackgroundColor=none;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
-          <mxGeometry x="540" y="190" width="160" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-28" value="{&lt;br&gt;&amp;nbsp; 已发布不可删除&lt;br&gt;&amp;nbsp; 基础任务已发布不可删除、不可编辑&lt;br&gt;&amp;nbsp; 应用任务已发布后只能变更版本&lt;div&gt;&amp;nbsp; 任务不可重复添加&lt;br&gt;}&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
-          <mxGeometry x="340" y="430" width="160" height="156" as="geometry" />
+          <mxGeometry x="540" y="190" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-29" value="agent要单独部署，并拆分模块" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#f0a30a;strokeColor=#BD7000;labelBackgroundColor=none;fontColor=#000000;" parent="-UBgynzwQVij8Gu3h8DZ-26" vertex="1">
           <mxGeometry x="730" y="670" width="120" height="90" as="geometry" />
@@ -1287,12 +1284,6 @@
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-110" value="连接方式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="3111" y="277" width="139" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="-UBgynzwQVij8Gu3h8DZ-111" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#788AA3;fontColor=default;" parent="1" source="-UBgynzwQVij8Gu3h8DZ-89" target="-UBgynzwQVij8Gu3h8DZ-28" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="2009" y="309" as="sourcePoint" />
-            <mxPoint x="2039" y="339" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-UBgynzwQVij8Gu3h8DZ-112" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="-UBgynzwQVij8Gu3h8DZ-3" target="-UBgynzwQVij8Gu3h8DZ-31" edge="1">
           <mxGeometry relative="1" as="geometry">
