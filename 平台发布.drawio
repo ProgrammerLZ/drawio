@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T00:31:16.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qYvqlTxjcpZGX_kRuTqV" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-20T00:32:11.083Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3bN6y5JxvX-A0fxFViNv" version="24.4.4" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="4946" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="SiY_2SgH3QjzB5uucu-8-68" value="发布到生产环境" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;align=center;fontSize=10;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="530" y="540.58" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiY_2SgH3QjzB5uucu-8-69" value="tag 0.1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;align=left;" parent="1" vertex="1">
+        <mxCell id="SiY_2SgH3QjzB5uucu-8-69" value="tag v1.1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;align=left;" parent="1" vertex="1">
           <mxGeometry x="690" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-72" value="开发" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fontSize=10;align=center;" parent="1" vertex="1">
@@ -64,8 +64,8 @@
         <mxCell id="SiY_2SgH3QjzB5uucu-8-80" value="发布至开发环境，进行简单测试" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="915" y="640" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SiY_2SgH3QjzB5uucu-8-82" value="tag 0.2" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;align=left;" parent="1" vertex="1">
-          <mxGeometry x="690" y="684.71" width="80" height="30" as="geometry" />
+        <mxCell id="SiY_2SgH3QjzB5uucu-8-82" value="tag v1.1_hotfix" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;align=left;" parent="1" vertex="1">
+          <mxGeometry x="690" y="684.71" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-65" target="SiY_2SgH3QjzB5uucu-8-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,6 +85,11 @@
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-70" target="SiY_2SgH3QjzB5uucu-8-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNBh4kdV-e95FcD9e3jl-1" value="合入dev" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SiY_2SgH3QjzB5uucu-8-87">
+          <mxGeometry x="0.1085" y="-21" relative="1" as="geometry">
+            <mxPoint x="-2" y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-30" target="SiY_2SgH3QjzB5uucu-8-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
