@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T00:44:47.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HwZrjFefDNGKfNhvJF5r" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-20T00:45:01.407Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="L8y0tqbsiIDcc9LWjdpa" version="24.4.4" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="4946" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="SiY_2SgH3QjzB5uucu-8-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="260" width="50" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="SiY_2SgH3QjzB5uucu-8-60" value="版本功能，是在一个迭代当中要完成的。主要完成以下几件事：&lt;div&gt;1. 确定迭代内要完成的功能&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. 确定这些功能是否能够向后兼容&lt;/div&gt;&lt;div&gt;3. 不能够向后兼容的功能，如何保证能够较为平滑的升级，例如：升级脚本&lt;/div&gt;&lt;div&gt;4. 确定迭代版本，例如：v1.1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#e01010;" parent="1" vertex="1">
+        <mxCell id="SiY_2SgH3QjzB5uucu-8-60" value="版本功能，是在一个迭代当中要完成的。主要完成以下几件事：&lt;div&gt;1. 确定迭代内要完成的功能&amp;nbsp;&lt;/div&gt;&lt;div&gt;2. 确定这些功能是否能够向后兼容&lt;/div&gt;&lt;div&gt;3. 不能够向后兼容的功能，如何保证能够较为平滑的升级，例如：写专门的升级脚本&lt;/div&gt;&lt;div&gt;4. 确定迭代版本，例如：v1.1&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#e01010;" parent="1" vertex="1">
           <mxGeometry x="-340" y="315" width="220" height="125" as="geometry" />
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-34" target="SiY_2SgH3QjzB5uucu-8-47" edge="1">
