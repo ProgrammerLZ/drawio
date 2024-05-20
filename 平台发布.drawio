@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T00:36:21.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j9Sqe9guH5_x6wuZ_zRu" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-20T00:38:41.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="D5eRo3gH4_ldm10OYAko" version="24.4.4" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="4946" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -152,8 +152,18 @@
         <mxCell id="SiY_2SgH3QjzB5uucu-8-6" value="master" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="160" width="60" height="39.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="SiY_2SgH3QjzB5uucu-8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-10" target="SiY_2SgH3QjzB5uucu-8-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SiY_2SgH3QjzB5uucu-8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SiY_2SgH3QjzB5uucu-8-10" target="SiY_2SgH3QjzB5uucu-8-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="270" />
+              <mxPoint x="450" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNBh4kdV-e95FcD9e3jl-6" value="管理员，创建dev分支" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SiY_2SgH3QjzB5uucu-8-98">
+          <mxGeometry x="-0.0917" y="-1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SiY_2SgH3QjzB5uucu-8-10" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="655" y="270" width="30" height="30" as="geometry" />
