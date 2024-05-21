@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T08:49:37.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zK01WZubhs2gw-8vi5d4" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T08:53:13.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="z76IstqwXHDTPAlZ1cAR" version="24.4.4" type="github" pages="4">
   <diagram id="IN_FaxpQOFjsvPeIAfhg" name="架构图">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-1" value="升级系统&lt;div&gt;（Jenkins？灵捷？）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="_Y1lSZrRzt0vXUT2IQyG-1" value="升级系统" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="180" width="300" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_Y1lSZrRzt0vXUT2IQyG-2" value="git" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
