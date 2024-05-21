@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T03:54:34.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rVuLi0HSYRAw5J0oTxbq" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-21T03:55:16.731Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bgFuGIEkVLRUm8h7u1YT" version="24.4.4" type="github" pages="4">
   <diagram id="-PNEVWK5oRswavHeEuX1" name="工作流">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -224,9 +224,6 @@
         <mxCell id="usXMfug6hDYWv9mWIihv-94" value="受限于只有dev分支，并且要保证master稳定" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-690" y="560" width="90" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="usXMfug6hDYWv9mWIihv-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="usXMfug6hDYWv9mWIihv-96" target="usXMfug6hDYWv9mWIihv-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="usXMfug6hDYWv9mWIihv-96" value="operator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1613.75" y="600" width="30" height="50" as="geometry" />
         </mxCell>
@@ -266,12 +263,12 @@
           <mxGeometry x="1163.75" y="600" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="usXMfug6hDYWv9mWIihv-116" value="记录某个学校，发布了哪个迭代的内容" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="530" width="90" height="51" as="geometry" />
+          <mxGeometry x="1510" y="340" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="usXMfug6hDYWv9mWIihv-117" value="标签与迭代一一对应" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1005" y="520" width="90" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="usXMfug6hDYWv9mWIihv-120" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="usXMfug6hDYWv9mWIihv-116" target="usXMfug6hDYWv9mWIihv-97" edge="1">
+        <mxCell id="usXMfug6hDYWv9mWIihv-120" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="usXMfug6hDYWv9mWIihv-116" target="usXMfug6hDYWv9mWIihv-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="630" as="sourcePoint" />
             <mxPoint x="1030" y="580" as="targetPoint" />
@@ -305,6 +302,17 @@
         </mxCell>
         <mxCell id="cWVrHHEu1-JgMIPYRqKW-4" value="中台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cWVrHHEu1-JgMIPYRqKW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWVrHHEu1-JgMIPYRqKW-5" target="cWVrHHEu1-JgMIPYRqKW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1730" y="530" />
+              <mxPoint x="1730" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cWVrHHEu1-JgMIPYRqKW-5" value="修改配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="510" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
