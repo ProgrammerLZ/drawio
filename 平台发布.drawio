@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T03:37:49.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dEZ3_2a5Jyrfn6RgrpTY" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-04T05:04:29.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fsQxPFQxfBsyMYxgSURf" version="24.4.13" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U0kBn4raTAi2WW5-LXmj" name="工作流">
-    <mxGraphModel dx="5186" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5186" dy="5622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -764,6 +764,30 @@
             <mxPoint x="-2444" y="141" as="sourcePoint" />
             <mxPoint x="-2501" y="231" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--1" target="0YsyoqhtM4sMNQRwD7q--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--1" value="突发bug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2700" y="520" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--2" target="0YsyoqhtM4sMNQRwD7q--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="521.25" width="90" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--4" target="0YsyoqhtM4sMNQRwD7q--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--4" value="拉取hot fix分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2560" y="520" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--6" value="bug fix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2420" y="520" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--10" value="bug fix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2280" y="521.25" width="77.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
