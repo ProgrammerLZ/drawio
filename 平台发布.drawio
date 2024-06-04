@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T06:14:21.069Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="t616f4509hT60zi2waOj" version="24.4.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-04T06:16:06.480Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="adAIhB9R4RcLUQ0w89i0" version="24.4.13" type="github" pages="5">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1031,7 +1031,7 @@
             <mxPoint x="650" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oNDVaNYHpKkyRdbCp9l9-30" value="平台愿景、规划" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="oNDVaNYHpKkyRdbCp9l9-30" value="平台愿景、规划（需求空间）" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="50" y="25" width="270" height="285" as="geometry" />
         </mxCell>
         <mxCell id="oNDVaNYHpKkyRdbCp9l9-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
