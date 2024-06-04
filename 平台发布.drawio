@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T03:13:10.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="b6l0YcmeGBRhLl2cdUVc" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-04T03:14:48.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_Q9EbZ2cRqWgubfAPvEw" version="24.4.13" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U0kBn4raTAi2WW5-LXmj" name="第 4 页">
-    <mxGraphModel dx="4946" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4946" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -550,7 +550,7 @@
             <mxPoint x="-1730" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gf6Zn-0TxK7un9CrbB7s-5" value="merge into dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gf6Zn-0TxK7un9CrbB7s-5" value="合并进入dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1860" y="220" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gf6Zn-0TxK7un9CrbB7s-6" value="提交合并请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -642,7 +642,7 @@
         <mxCell id="bzBPlJHYv3RwTKhxiXjP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzBPlJHYv3RwTKhxiXjP-28" target="bzBPlJHYv3RwTKhxiXjP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bzBPlJHYv3RwTKhxiXjP-28" value="test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bzBPlJHYv3RwTKhxiXjP-28" value="测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1597.5" y="220" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bzBPlJHYv3RwTKhxiXjP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bzBPlJHYv3RwTKhxiXjP-30" target="bzBPlJHYv3RwTKhxiXjP-32">
@@ -653,7 +653,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bzBPlJHYv3RwTKhxiXjP-30" value="pass?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bzBPlJHYv3RwTKhxiXjP-30" value="测试通过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1480" y="210" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzBPlJHYv3RwTKhxiXjP-32" value="标记测试通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -674,8 +674,17 @@
             <mxPoint x="-2220" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_9uigjCbVlYneu4WkCY-2" value="&lt;div&gt;一个任务完成后，例如：&lt;/div&gt;功能完成&lt;div&gt;bug fix完成&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="V_9uigjCbVlYneu4WkCY-2" value="&lt;div&gt;一个&lt;font color=&quot;#ff6666&quot;&gt;任务完成&lt;/font&gt;后，例如：&lt;/div&gt;功能完成&lt;div&gt;bug fix完成&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2192.5" y="70" width="102.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_9uigjCbVlYneu4WkCY-4" value="&lt;div&gt;未完成的任务，不要提交MR，可以往自己的分支push&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2090" y="-60" width="102.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_9uigjCbVlYneu4WkCY-5" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_9uigjCbVlYneu4WkCY-4" target="V_9uigjCbVlYneu4WkCY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2049" y="70" as="sourcePoint" />
+            <mxPoint x="-2100" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
