@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T03:37:31.274Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YcTHlNouxrIppccLY-Hu" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-04T03:37:49.191Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dEZ3_2a5Jyrfn6RgrpTY" version="24.4.13" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
         <mxCell id="V_9uigjCbVlYneu4WkCY-12" value="是否所有任务都被标记为完成？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="210" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V_9uigjCbVlYneu4WkCY-14" value="合入的条件可以根据实际情况来更换条件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="V_9uigjCbVlYneu4WkCY-14" value="可以根据实际情况来更换条件" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1280" y="30" width="102.5" height="64" as="geometry" />
         </mxCell>
         <mxCell id="V_9uigjCbVlYneu4WkCY-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_9uigjCbVlYneu4WkCY-14" target="V_9uigjCbVlYneu4WkCY-12">
