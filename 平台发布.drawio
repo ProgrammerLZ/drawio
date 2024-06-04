@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T05:04:29.448Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fsQxPFQxfBsyMYxgSURf" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-04T05:20:28.219Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pqHYOzIGBmTlfdzzEtok" version="24.4.13" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -523,7 +523,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U0kBn4raTAi2WW5-LXmj" name="工作流">
-    <mxGraphModel dx="5186" dy="5622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5186" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -542,7 +542,7 @@
         <mxCell id="bzBPlJHYv3RwTKhxiXjP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gf6Zn-0TxK7un9CrbB7s-3" target="bzBPlJHYv3RwTKhxiXjP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gf6Zn-0TxK7un9CrbB7s-3" value="合并请求（MR）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gf6Zn-0TxK7un9CrbB7s-3" value="合并请求（P&lt;div&gt;R）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2280" y="221" width="77.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V_9uigjCbVlYneu4WkCY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gf6Zn-0TxK7un9CrbB7s-5" target="bzBPlJHYv3RwTKhxiXjP-21">
