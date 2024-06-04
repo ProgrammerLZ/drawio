@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T05:50:32.813Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="y12LnaNgUO7YEPl1n55W" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-04T05:51:48.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fdyeyrQML1-bq2n5fpiJ" version="24.4.13" type="github" pages="4">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -891,14 +891,11 @@
         <mxCell id="0YsyoqhtM4sMNQRwD7q--27" value="在本地从hot fix分支创建新分支" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2410" y="639.75" width="77.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0YsyoqhtM4sMNQRwD7q--36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--32" target="0YsyoqhtM4sMNQRwD7q--33">
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--32" target="0YsyoqhtM4sMNQRwD7q--46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0YsyoqhtM4sMNQRwD7q--32" value="部署到目标环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--32" value="打版本标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="640.75" width="77.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0YsyoqhtM4sMNQRwD7q--33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="642.25" width="90" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="0YsyoqhtM4sMNQRwD7q--44" value="可能会有环境冲突问题，根据实际情况看看是否需要一个测试环境" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1623.75" y="510" width="102.5" height="60" as="geometry" />
@@ -908,6 +905,15 @@
             <mxPoint x="-1592" y="639.75" as="sourcePoint" />
             <mxPoint x="-1553" y="568.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0YsyoqhtM4sMNQRwD7q--46" target="0YsyoqhtM4sMNQRwD7q--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--46" value="部署到目标环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="640.75" width="77.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0YsyoqhtM4sMNQRwD7q--48" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="642.25" width="90" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
