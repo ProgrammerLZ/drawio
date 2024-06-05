@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T02:03:18.972Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="o62JRtHflVhgquMQT0oz" version="24.4.13" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-05T02:03:46.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ie1e3_RgjPent0WzLh4J" version="24.4.13" type="github" pages="5">
   <diagram name="分支" id="PHPPveKMIz6JPXMT_rPC">
     <mxGraphModel dx="5186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -946,7 +946,7 @@
         <mxCell id="WVm_2a2w_r8SE0vUsqgG-126" value="hot fix分支合并进入master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-983.75" y="-429.1" width="77.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WVm_2a2w_r8SE0vUsqgG-127" value="小心、小心、再小心，尽量使用设计原则，不要破坏已有功能" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="WVm_2a2w_r8SE0vUsqgG-127" value="小心、小心、再小心，尽量使用一些技巧，不要破坏已有功能" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1895" y="-550.35" width="102.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WVm_2a2w_r8SE0vUsqgG-128" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WVm_2a2w_r8SE0vUsqgG-108" target="WVm_2a2w_r8SE0vUsqgG-127">
