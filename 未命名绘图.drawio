@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T02:58:18.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ejjRGg9VVNeorkeo_N7m" version="24.5.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-19T03:01:05.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5wAgnIROPJmCZHixbzmF" version="24.5.4" type="github" pages="4">
   <diagram name="第 1 页" id="3CNT_n8_xedpkPyEsT_4">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fj3tzCypmG-5rx5jvGol" name="第 4 页">
-    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
         <mxCell id="wAXzH0bgRL2LgkpBNWe3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wAXzH0bgRL2LgkpBNWe3-9" target="wAXzH0bgRL2LgkpBNWe3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wAXzH0bgRL2LgkpBNWe3-9" value="低代码平台&lt;div&gt;操作日志配置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="wAXzH0bgRL2LgkpBNWe3-9" value="低代码平台&lt;div&gt;操作日志配置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wAXzH0bgRL2LgkpBNWe3-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rhiM2jPWC2wqOPwPqg7W-4" target="wAXzH0bgRL2LgkpBNWe3-8">
@@ -183,7 +183,7 @@
         <mxCell id="rhiM2jPWC2wqOPwPqg7W-4" value="业务系统&lt;div&gt;操作日志配置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qh-XRYBO5RQTl8u21IiB-1" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qh-XRYBO5RQTl8u21IiB-1" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
