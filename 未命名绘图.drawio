@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T08:26:44.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lrnjWgPpMbCUJL3TfqV8" version="24.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-21T08:27:57.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="N_Z9eCsmZCqZQgjtilNm" version="24.6.0" type="github" pages="4">
   <diagram name="第 1 页" id="3CNT_n8_xedpkPyEsT_4">
     <mxGraphModel dx="4946" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -99,6 +99,30 @@
         </mxCell>
         <mxCell id="pNhOilyHpPYFhd5x2Kn3-27" value="配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-28" value="诚信" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-29" value="xxx" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-30" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-31" value="配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-32" value="低代码" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-33" value="lowcode" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-34" value="查看日志" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pNhOilyHpPYFhd5x2Kn3-35" value="配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
