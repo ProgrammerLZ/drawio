@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:00:05.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5FQLXEhkj461OWTW46vx" version="24.6.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:00:28.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kmycYg5-4q20Ove9yV4J" version="24.6.5" type="github" pages="11">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2143,7 +2143,7 @@
         <mxCell id="plskM8BxfLmjVn3wSkR1-49" value="root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="plskM8BxfLmjVn3wSkR1-50" value="灵捷平台专属目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="plskM8BxfLmjVn3wSkR1-50" value="专属目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="320" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="plskM8BxfLmjVn3wSkR1-51" value="制品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
