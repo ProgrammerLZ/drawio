@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T09:36:56.211Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jCRacADX4hUyQeqXlAYo" version="24.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-15T02:07:58.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BTI0u-4-N3yuv00bDUeD" version="24.6.5" type="github" pages="10">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1747,7 +1747,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IQ2wz3qytArjpidqS2q3" name="应用部署">
-    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1770,6 +1770,11 @@
         </mxCell>
         <mxCell id="PguQhCTCigTIEnJKZJFi-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QcdW9y8lw-T6tWGKtgba-12" target="QcdW9y8lw-T6tWGKtgba-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kq3f8oqOv8zMs1jXB3IM-1" value="获取发行包" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PguQhCTCigTIEnJKZJFi-55">
+          <mxGeometry y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QcdW9y8lw-T6tWGKtgba-12" value="agileleap" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2650" y="1330" width="155" height="50" as="geometry" />
@@ -2017,14 +2022,6 @@
         <mxCell id="bYcUcyrs36g_gFL69Ncv-1" value="api" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1617.5" y="1095" width="31.5" height="60" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Xw-it_tCkpiDcWa9hR75" name="第 11 页">
-    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
