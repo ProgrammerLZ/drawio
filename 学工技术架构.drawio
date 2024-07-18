@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:47:06.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1giGjSr64nCifKzNHxN0" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T06:53:38.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="x4DM6y9yEj6NDFbKFgW_" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCv1lbt1jgZM3lcgzXiE" name="低代码技术架构">
-    <mxGraphModel dx="1434" dy="5442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,7 +187,7 @@
           <mxGeometry x="1120" y="60" width="120" height="730" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-6" value="RESTFUL API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="430" y="140" width="490" height="40" as="geometry" />
+          <mxGeometry x="430" y="155" width="490" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-10" value="高可用数据库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="440" width="440" height="90" as="geometry" />
@@ -258,9 +258,6 @@
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-52" value="Kube State&lt;div&gt;Metrics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-114" value="字典服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="365" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-119" value="统安全认证" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="270" y="-10" width="970" height="40" as="geometry" />
         </mxCell>
@@ -271,16 +268,7 @@
           <mxGeometry x="1000" y="170" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-126" value="低代码平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="215" width="490" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-127" value="追踪服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="365" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-128" value="搜索服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="700" y="365" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-129" value="消息服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="840" y="365" width="80" height="30" as="geometry" />
+          <mxGeometry x="430" y="230" width="490" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-130" value="消息总线" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="80" height="90" as="geometry" />
@@ -289,7 +277,7 @@
           <mxGeometry x="280" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-132" value="集成" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="235" width="80" height="130" as="geometry" />
+          <mxGeometry x="270" y="235" width="80" height="155" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-133" value="OnlyOffice" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="60" height="30" as="geometry" />
@@ -301,7 +289,25 @@
           <mxGeometry x="1140" y="540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-137" value="Skywalking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="1140" y="610" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-3" value="字典服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-4" value="追踪服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-5" value="搜索服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="770" y="257.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-6" value="消息服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="770" y="297.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-7" value="开发平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q9tbtXxXNj_UV8Hw5mhD-8" value="运行平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="630" y="300" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
