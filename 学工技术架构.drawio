@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:12:36.234Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DAG_kLRMoGvFNluEiIx6" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T06:13:06.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DgFO6mdPTcw36Hj32KGc" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xCv1lbt1jgZM3lcgzXiE" name="第 2 页">
+  <diagram id="xCv1lbt1jgZM3lcgzXiE" name="低代码技术架构">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
