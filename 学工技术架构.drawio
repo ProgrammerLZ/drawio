@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T08:42:11.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="aX_LAQkGap6H7EhAIlpA" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T08:42:38.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jsaeRfmPXwkHLC13mmPs" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="V4SBivtTWdESJ9Hyds8n-12" value="&lt;span style=&quot;&quot;&gt;Office设计器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="478" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V4SBivtTWdESJ9Hyds8n-13" value="&lt;span style=&quot;&quot;&gt;Office设计器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="V4SBivtTWdESJ9Hyds8n-13" value="表单设计器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="721" y="478" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V4SBivtTWdESJ9Hyds8n-14" value="&lt;div&gt;MongoDB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;strokeColor=default;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;fillColor=#7EA6E0;strokeWidth=0;" vertex="1" parent="1">
@@ -362,6 +362,9 @@
         </mxCell>
         <mxCell id="V4SBivtTWdESJ9Hyds8n-15" value="&lt;span style=&quot;&quot;&gt;GrallVM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1236" y="512" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="V4SBivtTWdESJ9Hyds8n-16" value="页面设计器" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="478" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
