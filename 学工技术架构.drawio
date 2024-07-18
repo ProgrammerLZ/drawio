@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T07:03:35.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="79Xe84llSfG6-58erPhU" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T07:04:54.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Iur-5GQFVM2FdQZ5Cz2T" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -174,10 +174,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-125" value="分布式对象缓存" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-125" value="分布式对象缓存" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="980" y="440" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-116" value="分布式缓存" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-116" value="分布式缓存" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="730" y="440" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-2" value="DevOps" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
@@ -187,9 +187,9 @@
           <mxGeometry x="1120" y="80" width="120" height="710" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-6" value="RESTFUL API" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="185" width="490" height="40" as="geometry" />
+          <mxGeometry x="410" y="160" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-10" value="高可用数据库" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-10" value="高可用数据库" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="270" y="440" width="440" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-11" value="MySQL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
@@ -210,7 +210,7 @@
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-18" value="Prometheus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1140" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-26" value="容器化以及编排" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-26" value="容器化以及编排" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="270" y="570" width="830" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-27" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -225,7 +225,7 @@
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-40" value="Ingress负载均衡" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="830" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-41" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-41" value="基础设施" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="270" y="690" width="830" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-42" value="私有云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -268,15 +268,15 @@
           <mxGeometry x="1000" y="200" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-126" value="低代码平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="260" width="490" height="125" as="geometry" />
+          <mxGeometry x="410" y="240" width="510" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-130" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-130" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="270" y="160" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-131" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-132" value="集成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-132" value="集成" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="270" y="265" width="80" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-133" value="OnlyOffice" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
@@ -292,10 +292,10 @@
           <mxGeometry x="1140" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9tbtXxXNj_UV8Hw5mhD-3" value="字典服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="290" width="90" height="30" as="geometry" />
+          <mxGeometry x="470" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q9tbtXxXNj_UV8Hw5mhD-4" value="追踪服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="330" width="90" height="30" as="geometry" />
+          <mxGeometry x="470" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q9tbtXxXNj_UV8Hw5mhD-5" value="搜索服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="287.5" width="90" height="30" as="geometry" />
