@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T07:08:10.225Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SyCAY2Oij9XLxvROD5Po" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T07:12:43.144Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Cj-AdPm62aXNxG4gnXFO" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -267,7 +267,7 @@
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-123" value="EFK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1166" y="379" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-126" value="低代码平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-126" value="低代码平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="576" y="419" width="510" height="145" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-130" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
