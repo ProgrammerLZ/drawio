@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:29:20.988Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gZzusoBU1L7Gb8r5JSLV" version="24.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-18T06:30:55.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="8A-72RhYvqfF1HIkD4Qd" version="24.7.0" type="github" pages="2">
   <diagram name="第 1 页" id="q8hEzm-3ZmMBjOJgn9qx">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -184,13 +184,13 @@
           <mxGeometry x="730" y="530" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-2" value="DevOps支撑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="840" y="290" width="120" height="210" as="geometry" />
+          <mxGeometry x="840" y="290" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-3" value="指标监控" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1120" y="60" width="120" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="ZbT44DyfTlQuuJ5r1V82-6" value="RestApi" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="530" height="40" as="geometry" />
+        <mxCell id="ZbT44DyfTlQuuJ5r1V82-6" value="RESTFUL API" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-10" value="高可用数据库" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="290" y="530" width="420" height="90" as="geometry" />
@@ -208,7 +208,7 @@
           <mxGeometry x="805" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-15" value="日志分析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="840" y="135" width="120" height="130" as="geometry" />
+          <mxGeometry x="840" y="195" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-18" value="Prometheus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="120" width="80" height="40" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="1000" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-40" value="Ingress负载均衡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="270" y="60" width="690" height="40" as="geometry" />
+          <mxGeometry x="270" y="70" width="690" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-41" value="基础设施" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="290" y="760" width="810" height="100" as="geometry" />
@@ -256,7 +256,7 @@
           <mxGeometry x="1140" y="405" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-51" value="灵捷平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="420" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-52" value="Kube State&lt;div&gt;Metrics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="480" width="80" height="40" as="geometry" />
@@ -271,10 +271,10 @@
           <mxGeometry x="300" y="-70" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-121" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="340" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZbT44DyfTlQuuJ5r1V82-123" value="EFK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="195" width="80" height="40" as="geometry" />
+          <mxGeometry x="860" y="235" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
