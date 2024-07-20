@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T10:45:48.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qTqcn3g03i6FyLJzQrbY" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T10:47:59.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2ed0eiv7ALkOXDEEzO8s" version="24.7.2" type="github">
   <diagram name="第 1 页" id="g6CvxwyKXsx-Wkx9vgeh">
     <mxGraphModel dx="2473" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           <mxGeometry x="-150" y="620" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JE6O_fZ9xA0qBkAR_-J4-41" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="340" y="280" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JE6O_fZ9xA0qBkAR_-J4-42" value="ZooKeeper" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="680" width="90" height="30" as="geometry" />
@@ -114,6 +114,30 @@
         </mxCell>
         <mxCell id="JE6O_fZ9xA0qBkAR_-J4-48" value="JavaScript" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="1140" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-49" value="JWT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-50" value="SpringSecurity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-51" value="Oauth2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-52" value="http" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-53" value="https" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-54" value="TCP/IP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-55" value="数据结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JE6O_fZ9xA0qBkAR_-J4-56" value="算法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#FFFFFF;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
