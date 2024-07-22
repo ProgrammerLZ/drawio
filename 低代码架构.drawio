@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:26:10.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yQ5IwdFRwz1k2aEYJG30" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:27:08.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="z4a_ewgOHSq8Xjr-ckM6" version="24.7.1" type="github" pages="4">
   <diagram name="系统架构（技术栈）" id="jJ66Md09S9d45xrLp3_S">
     <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -577,7 +577,7 @@
         <mxCell id="809zHa9MCb8JWnI5Vmer-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="809zHa9MCb8JWnI5Vmer-2" target="809zHa9MCb8JWnI5Vmer-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="809zHa9MCb8JWnI5Vmer-2" value="测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="809zHa9MCb8JWnI5Vmer-2" value="调试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="809zHa9MCb8JWnI5Vmer-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="809zHa9MCb8JWnI5Vmer-3" target="809zHa9MCb8JWnI5Vmer-4">
