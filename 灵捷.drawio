@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T09:26:23.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lqfslYmeBE8i6XHPVnq3" version="24.7.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-07-22T13:10:19.136Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="REdUG1r9P7znz8h9YRoE" version="24.7.2" type="github" pages="11">
   <diagram id="DaOKAF2P64NM8AzB5giu" name="整体工作流程">
     <mxGraphModel dx="3328" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1403,8 +1403,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yoHaMPZQW48Hf0F_Z1ih" name="快照架构">
-    <mxGraphModel dx="5186" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+  <diagram id="yoHaMPZQW48Hf0F_Z1ih" name="发布快照设计">
+    <mxGraphModel dx="4946" dy="5476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
