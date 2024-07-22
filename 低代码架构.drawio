@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:18:46.689Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="35zNwG9ACe3GFQviKIjI" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:26:10.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yQ5IwdFRwz1k2aEYJG30" version="24.7.1" type="github" pages="4">
   <diagram name="系统架构（技术栈）" id="jJ66Md09S9d45xrLp3_S">
     <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,13 +644,46 @@
           <mxGeometry x="610" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DygON1KVDbs9_Uxsi8uE-6" value="字典管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="610" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jAuTwYDS2jQFpN7oZDh3-1" value="Office设计" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="610" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VOYHDrVu9TlDJ2I83IjS-1" value="表单引擎" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1130" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDr0lp-A8i03dyVhFsm0-1" value="流程引擎" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDr0lp-A8i03dyVhFsm0-2" value="脚本执行引擎" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoQ2b4wsFm6tLvY0SIAp-1" value="数据大屏" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wiImbp-Hl_sReXlV0pQ9-1" value="大屏配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KUc_ppd03noOmbdDWGXJ-1" value="消息配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-1" value="数据搜索" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-2" value="发布任务" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-3" value="制品管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-4" value="路由配置" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-5" value="发布报告" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-7" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
