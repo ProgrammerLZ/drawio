@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T00:11:32.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sNSZI5usDJnh5h_1nul-" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-23T00:14:59.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rIgX7H-p0qCbQhFhveYD" version="24.7.1" type="github" pages="4">
   <diagram name="系统架构（技术栈）" id="jJ66Md09S9d45xrLp3_S">
     <mxGraphModel dx="1674" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -564,7 +564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o7oU7m4loyVLVmq9FySv" name="产品架构">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,7 +632,7 @@
           <mxGeometry x="610" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DygON1KVDbs9_Uxsi8uE-3" value="平台升级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DygON1KVDbs9_Uxsi8uE-4" value="运行日志" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="790" y="340" width="60" height="30" as="geometry" />
@@ -690,6 +690,12 @@
         </mxCell>
         <mxCell id="gEAGlE-LNhp_M0uI86A_-11" value="搜索引擎" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1130" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-12" value="域迁移" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gEAGlE-LNhp_M0uI86A_-13" value="模块迁移" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="440" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
