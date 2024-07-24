@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T06:08:41.100Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="WQEl0lMIfuSQivcxbJIB" version="24.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-24T06:18:50.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="FZRFYht0TJgQJtTHX43O" version="24.7.3" type="github" pages="6">
   <diagram id="TgEblOys9-wuJtQfU5L5" name="业务架构">
     <mxGraphModel dx="1434" dy="5442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -593,7 +593,7 @@
           <mxGeometry x="1254" y="483" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="LsvfEJMq-xNVwW0jPt_V-24" value="业务服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="404" y="500" width="823" height="170" as="geometry" />
+          <mxGeometry x="404" y="500" width="456" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LsvfEJMq-xNVwW0jPt_V-25" value="消息总线" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="299" y="447" width="94" height="87" as="geometry" />
@@ -695,31 +695,49 @@
           <mxGeometry x="481" y="534" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-3" value="管家服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="608" y="534" width="34" height="34" as="geometry" />
+          <mxGeometry x="560" y="535" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-4" value="运行时服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="735" y="534" width="34" height="34" as="geometry" />
+          <mxGeometry x="627" y="534" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-5" value="部署服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="862" y="534" width="34" height="34" as="geometry" />
+          <mxGeometry x="758.5" y="607" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-6" value="搜索服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="608" y="607" width="34" height="34" as="geometry" />
+          <mxGeometry x="555.5" y="604" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-7" value="字典服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="481" y="607" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-8" value="追踪服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="734.5" y="607" width="34" height="34" as="geometry" />
+          <mxGeometry x="682" y="604" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-9" value="观测服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="989" y="534" width="34" height="34" as="geometry" />
+          <mxGeometry x="703" y="534" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-11" value="消息服务" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Azure_Spring_Cloud.svg;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="534" width="34" height="34" as="geometry" />
+          <mxGeometry x="777" y="532" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="xmvq1heJmJ3YkWEOa0wB-13" value="Git" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1254" y="614" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-17" value="高并发" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="498" width="340" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-18" value="高可用" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="588" width="340" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-19" value="横向扩容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="534" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-20" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="534" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-21" value="队列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1072.75" y="534" width="52.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="xmvq1heJmJ3YkWEOa0wB-22" value="限流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1141.63" y="534" width="52.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
