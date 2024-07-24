@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T05:38:50.793Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mQK-vdgtCSlbO5W501I5" version="24.7.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-24T05:39:00.603Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gPeicZ9BeamA8Z1XHp7t" version="24.7.3" type="github" pages="6">
   <diagram id="TgEblOys9-wuJtQfU5L5" name="业务架构">
     <mxGraphModel dx="1434" dy="5442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -550,7 +550,7 @@
         <mxCell id="LsvfEJMq-xNVwW0jPt_V-7" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#DAE5F2;fontColor=#7EA6E0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="403" y="446" width="822" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LsvfEJMq-xNVwW0jPt_V-8" value="数据存储" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
+        <mxCell id="LsvfEJMq-xNVwW0jPt_V-8" value="数据持久化存储" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="299" y="682" width="632.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="LsvfEJMq-xNVwW0jPt_V-9" value="日志分析" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#DAE5F2;strokeColor=none;fontColor=#7EA6E0;" vertex="1" parent="1">
