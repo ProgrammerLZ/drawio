@@ -297,6 +297,15 @@
         <mxCell id="mvZBdH1KSYkebl2hoFRd-1" value="原子性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="600" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mvZBdH1KSYkebl2hoFRd-3" value="AQS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="424" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mvZBdH1KSYkebl2hoFRd-4" value="RetrantLock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="372.5" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mvZBdH1KSYkebl2hoFRd-5" value="LockSupport" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="397.5" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
