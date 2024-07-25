@@ -294,7 +294,7 @@
         <mxCell id="YbuWE6oQGv1UF3c4Gytr-7" value="重量级锁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="525" y="430" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mvZBdH1KSYkebl2hoFRd-1" value="CAS自旋" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mvZBdH1KSYkebl2hoFRd-1" value="原子性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
