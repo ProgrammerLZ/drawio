@@ -416,7 +416,7 @@
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-15" value="2层负载均衡&lt;div&gt;4层负载均衡&lt;/div&gt;&lt;div&gt;7层负载均衡&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="830" y="400" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4ccXDrbb5XJbMBLy0cAE-18" value="A记录&lt;div&gt;CName&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-18" value="A记录&lt;div&gt;CName&lt;/div&gt;&lt;div&gt;本地DNS&lt;/div&gt;&lt;div&gt;最近的服务节点&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="340" y="280" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
