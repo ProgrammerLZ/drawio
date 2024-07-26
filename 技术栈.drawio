@@ -378,7 +378,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-11" value="多级分流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="620" height="120" as="geometry" />
+          <mxGeometry x="270" y="550" width="740" height="310" as="geometry" />
         </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-3" target="4ccXDrbb5XJbMBLy0cAE-5">
           <mxGeometry relative="1" as="geometry" />
@@ -389,16 +389,22 @@
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-5" target="4ccXDrbb5XJbMBLy0cAE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-5" target="4ccXDrbb5XJbMBLy0cAE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-5" value="DNS解析" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="460" y="590" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ccXDrbb5XJbMBLy0cAE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-7" target="4ccXDrbb5XJbMBLy0cAE-9">
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-7" target="4ccXDrbb5XJbMBLy0cAE-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-7" value="传输链路" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="620" y="590" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-9" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="460" y="685" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-13" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="770" y="590" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
