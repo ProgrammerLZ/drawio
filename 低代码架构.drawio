@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-26T07:36:48.822Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="no16a5ZOkDKVWyKJ7_tx" version="24.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-26T07:40:25.444Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="59AwI95-B6a3qaBe41C6" version="24.7.3" type="github" pages="7">
   <diagram id="TgEblOys9-wuJtQfU5L5" name="业务架构">
     <mxGraphModel dx="1434" dy="5442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -781,7 +781,7 @@
             <mxPoint x="629" y="1205.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TPwFwmQ8Z363jr0kORu_-35" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="TPwFwmQ8Z363jr0kORu_-35" value="服务网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="569.5" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TPwFwmQ8Z363jr0kORu_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TPwFwmQ8Z363jr0kORu_-34" target="TPwFwmQ8Z363jr0kORu_-66">
