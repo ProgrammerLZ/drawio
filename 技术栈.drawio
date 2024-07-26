@@ -378,7 +378,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-11" value="多级分流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="550" width="740" height="310" as="geometry" />
+          <mxGeometry x="270" y="500" width="740" height="290" as="geometry" />
         </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-3" target="4ccXDrbb5XJbMBLy0cAE-5">
           <mxGeometry relative="1" as="geometry" />
@@ -404,8 +404,14 @@
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-9" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="460" y="685" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4ccXDrbb5XJbMBLy0cAE-13" target="4ccXDrbb5XJbMBLy0cAE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4ccXDrbb5XJbMBLy0cAE-13" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="770" y="590" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4ccXDrbb5XJbMBLy0cAE-15" value="2层负载均衡&lt;div&gt;4层负载均衡&lt;/div&gt;&lt;div&gt;7层负载均衡&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="830" y="400" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
