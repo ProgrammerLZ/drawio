@@ -527,9 +527,6 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-6" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -545,13 +542,10 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-12" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-11" target="BawPpekV38sW3L1TbD_Y-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-13" target="BawPpekV38sW3L1TbD_Y-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-34" value="Your users still have to suffer slow page requests when a lot of data is fetched from the database" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-32">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-34" value="2. Your users still have to suffer slow page requests when a lot of data is fetched from the database" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-32">
           <mxGeometry x="0.715" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
@@ -586,6 +580,18 @@
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-31" value="Cache&lt;div&gt;（Redis）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-14" target="BawPpekV38sW3L1TbD_Y-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-36" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="761" y="210" as="sourcePoint" />
+            <mxPoint x="835" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
