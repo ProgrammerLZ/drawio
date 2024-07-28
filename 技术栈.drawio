@@ -497,43 +497,76 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T5y9TW0rEG16pkJ2AVpG" name="system-design-basic">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BawPpekV38sW3L1TbD_Y-1" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-2" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-3" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-5" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-6" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-7" value="MySQL&lt;div&gt;Master-Slave&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-3" target="BawPpekV38sW3L1TbD_Y-7">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-3" target="BawPpekV38sW3L1TbD_Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-9" value="sharding&lt;div&gt;denormalization&lt;/div&gt;&lt;div&gt;SQL tunning&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="30" width="136" height="60" as="geometry" />
+        <mxCell id="BawPpekV38sW3L1TbD_Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-3" target="BawPpekV38sW3L1TbD_Y-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-5" target="BawPpekV38sW3L1TbD_Y-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="235" as="sourcePoint" />
-            <mxPoint x="540" y="185" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="430" y="140" />
-              <mxPoint x="380" y="130" />
-            </Array>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-3" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-5" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-6" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-7" value="MySQL&lt;div&gt;Master-Slave&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-9" value="1. sharding&lt;div&gt;2. denormalization&lt;/div&gt;&lt;div&gt;3. SQL tunning&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="245" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-11" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-12" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-13" target="BawPpekV38sW3L1TbD_Y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-13" value="NoSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-14" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-size: 15px; background-color: rgb(249, 249, 249);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;let your app do the dataset-joins&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="190" y="245" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-26" value="演化方向1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-21">
+          <mxGeometry x="0.1185" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-27" value="演化反向2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-22">
+          <mxGeometry x="0.024" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-19" value="selector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="stateless" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-170" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
