@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T5y9TW0rEG16pkJ2AVpG" name="system-design-basic">
-    <mxGraphModel dx="1434" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,7 +510,7 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-3" target="BawPpekV38sW3L1TbD_Y-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-30" value="数据库成为瓶颈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-20">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-30" value="1. 数据库成为瓶颈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-20">
           <mxGeometry x="-0.0615" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -527,14 +527,14 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-6" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-9">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-7" target="BawPpekV38sW3L1TbD_Y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-7" value="MySQL&lt;div&gt;Master-Slave&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-9" value="1. sharding&lt;div&gt;2. denormalization&lt;/div&gt;&lt;div&gt;3. SQL tunning&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="136" height="60" as="geometry" />
+          <mxGeometry x="730" y="120" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-11" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
@@ -542,14 +542,14 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-12" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-13" target="BawPpekV38sW3L1TbD_Y-14">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-11" target="BawPpekV38sW3L1TbD_Y-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-13" value="NoSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-14" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-size: 15px; background-color: rgb(249, 249, 249);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;let your app do the dataset-joins&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="136" height="60" as="geometry" />
+          <mxGeometry x="-70" y="100" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-11">
           <mxGeometry relative="1" as="geometry" />
@@ -572,6 +572,9 @@
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="stateless" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="-310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-31" value="NoSQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
