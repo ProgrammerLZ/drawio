@@ -526,9 +526,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-3" target="BawPpekV38sW3L1TbD_Y-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-3" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -587,7 +584,7 @@
           <mxGeometry x="360" y="-80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="stateless" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-310" width="70" height="30" as="geometry" />
+          <mxGeometry x="620" y="-300" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-31" value="Cache&lt;div&gt;（Redis）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
@@ -615,6 +612,21 @@
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-39" value="asynchronism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-43" value="1. 动态内容静态化&lt;div&gt;2. 真实的异步&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-310" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.585;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-40" target="BawPpekV38sW3L1TbD_Y-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="-190" as="sourcePoint" />
+            <mxPoint x="595" y="-240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-43" target="BawPpekV38sW3L1TbD_Y-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-280" y="-234.5" as="sourcePoint" />
+            <mxPoint x="-130" y="-275.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
