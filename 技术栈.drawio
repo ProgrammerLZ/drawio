@@ -529,7 +529,7 @@
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-9" value="1. sharding&lt;div&gt;2. denormalization&lt;/div&gt;&lt;div&gt;3. SQL tunning&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="245" width="136" height="60" as="geometry" />
+          <mxGeometry x="570" y="230" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-11" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
@@ -544,7 +544,7 @@
           <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-14" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-size: 15px; background-color: rgb(249, 249, 249);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;let your app do the dataset-joins&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="190" y="245" width="136" height="60" as="geometry" />
+          <mxGeometry x="194" y="220" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-11">
           <mxGeometry relative="1" as="geometry" />
@@ -557,16 +557,22 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-27" value="演化反向2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-22">
+        <mxCell id="BawPpekV38sW3L1TbD_Y-27" value="演化方向2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BawPpekV38sW3L1TbD_Y-22">
           <mxGeometry x="0.024" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-19" target="BawPpekV38sW3L1TbD_Y-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-19" value="selector" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="stateless" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="-170" width="70" height="30" as="geometry" />
+          <mxGeometry x="525" y="-170" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BawPpekV38sW3L1TbD_Y-28" value="数据库成为瓶颈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-5" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
