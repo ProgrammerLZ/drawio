@@ -583,8 +583,8 @@
         <mxCell id="BawPpekV38sW3L1TbD_Y-19" value="演化反向选择器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="-80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="stateless" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-300" width="70" height="30" as="geometry" />
+        <mxCell id="BawPpekV38sW3L1TbD_Y-24" value="1. stateless&lt;div&gt;2. copy&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-31" value="Cache&lt;div&gt;（Redis）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
