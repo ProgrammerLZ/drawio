@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T5y9TW0rEG16pkJ2AVpG" name="system-design-basic">
-    <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2713" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,7 +587,7 @@
           <mxGeometry x="620" y="-300" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-31" value="Cache&lt;div&gt;（Redis）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-35" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-14" target="BawPpekV38sW3L1TbD_Y-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -602,12 +602,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-37" value="1. Object Cache&lt;div&gt;2. Query Cache&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="525" y="410" width="136" height="50" as="geometry" />
+          <mxGeometry x="535" y="396" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BawPpekV38sW3L1TbD_Y-31" target="BawPpekV38sW3L1TbD_Y-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="160" as="sourcePoint" />
-            <mxPoint x="740" y="160" as="targetPoint" />
+            <mxPoint x="660" y="146" as="sourcePoint" />
+            <mxPoint x="750" y="146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BawPpekV38sW3L1TbD_Y-39" value="asynchronism" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
