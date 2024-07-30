@@ -154,7 +154,7 @@
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-94" value="Blackbox&lt;div&gt;Exporter&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="545" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KOqdbeGSPdCPdFGqDDnY-96" value="灵捷平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KOqdbeGSPdCPdFGqDDnY-96" value="灵捷" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KOqdbeGSPdCPdFGqDDnY-97" value="Kube State&lt;div&gt;Metrics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
