@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Kn30-KsirsfdRHkHEOh" name="应用架构">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -741,6 +741,24 @@
         </mxCell>
         <mxCell id="K4-q2gKFmy_GtzC1MXGh-11" value="&lt;span style=&quot;&quot;&gt;OnlyOffice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#29417F;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="951.5" y="613" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-2" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="371" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-3" value="API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="450" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-4" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="502" width="120" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-5" value="存储层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="682" width="120" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-6" value="容器层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="782" width="120" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Zq6zSf4rIY9u5pP6UwUS-7" value="基础设施层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="863" width="120" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
